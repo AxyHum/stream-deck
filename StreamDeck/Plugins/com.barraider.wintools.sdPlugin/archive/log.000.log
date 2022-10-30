@@ -1,0 +1,641 @@
+2022-10-29 21:42:20.6447|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-29 21:42:20.6702|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-29 21:42:20.9332|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-29 21:42:20.9332|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-29 21:42:23.0113|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-29 21:42:23.0113|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-29 21:42:27.2727|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:42:27.2727|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:27.7975|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:42:27.7975|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:28.1648|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-29 21:42:28.1648|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:28.6464|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-29 21:42:28.6464|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:29.2011|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-29 21:42:29.2011|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:29.3236|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-29 21:42:29.3236|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:29.6247|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-29 21:42:29.6247|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:42:29.9851|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-29 21:42:29.9851|ERROR|com.barraider.wintools|8|NotifyKeyPressed was called but gameHandler is null
+2022-10-29 21:43:00.4252|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:43:00.4487|INFO|com.barraider.wintools|8|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:43:00.4617|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:43:06.8928|INFO|com.barraider.wintools|5|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:43:07.5735|INFO|com.barraider.wintools|12|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:43:07.5735|INFO|com.barraider.wintools|6|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:43:07.5735|INFO|com.barraider.wintools|7|IsUIReady was called but Subscribers: /15
+2022-10-29 21:43:07.6340|INFO|com.barraider.wintools|12|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:43:08.5165|INFO|com.barraider.wintools|3|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:08.5481|DEBUG|com.barraider.wintools|24|Logger Initialized
+2022-10-29 21:43:08.5481|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:08.9933|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:08.9933|INFO|com.barraider.wintools|7|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:09.3494|INFO|com.barraider.wintools|14|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:09.3494|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:09.6408|INFO|com.barraider.wintools|23|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:09.6512|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:09.8949|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:09.8949|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:10.0769|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:10.0874|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:10.2647|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:10.2757|INFO|com.barraider.wintools|11|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:10.4528|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:10.4633|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:10.6778|INFO|com.barraider.wintools|12|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:10.6778|INFO|com.barraider.wintools|7|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:10.8775|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:10.8900|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:11.0800|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:11.0915|INFO|com.barraider.wintools|13|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:11.2675|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:11.2780|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:12.1147|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:12.1147|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:12.2989|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:12.3109|INFO|com.barraider.wintools|6|ModifyAppVolume modifying volume from 0,85 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:12.6535|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:12.6638|INFO|com.barraider.wintools|13|ModifyAppVolume modifying volume from 0,7 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:12.8448|INFO|com.barraider.wintools|17|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:12.8553|INFO|com.barraider.wintools|11|ModifyAppVolume modifying volume from 0,5500001 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:13.0313|INFO|com.barraider.wintools|12|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:13.0428|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 0,4000001 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:13.2194|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:43:13.2299|INFO|com.barraider.wintools|11|ModifyAppVolume modifying volume from 0,2500001 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.0428|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.0548|INFO|com.barraider.wintools|6|ModifyAppVolume modifying volume from 0,1000001 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.2775|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.2880|INFO|com.barraider.wintools|13|ModifyAppVolume modifying volume from 0,2500001 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.4628|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.4738|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 0,4000001 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.6567|INFO|com.barraider.wintools|12|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.6692|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 0,5500001 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.7562|INFO|com.barraider.wintools|12|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.7562|INFO|com.barraider.wintools|11|ModifyAppVolume modifying volume from 0,7 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:14.9602|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:14.9602|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 0,85 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:15.1484|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:15.1599|INFO|com.barraider.wintools|13|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:15.3122|INFO|com.barraider.wintools|8|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:15.3222|INFO|com.barraider.wintools|7|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:15.5567|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:15.5672|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:15.7309|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:15.7454|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:16.0239|INFO|com.barraider.wintools|23|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:16.0239|INFO|com.barraider.wintools|22|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:16.2692|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:43:16.2692|INFO|com.barraider.wintools|7|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:43:17.1629|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:43:20.1697|INFO|com.barraider.wintools|24|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:20.2462|INFO|com.barraider.wintools|11|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:20.5052|INFO|com.barraider.wintools|13|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:20.5052|INFO|com.barraider.wintools|7|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:21.2599|INFO|com.barraider.wintools|18|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:21.2599|WARN|com.barraider.wintools|18|WinTools.Actions.AppPlaybackDeviceAction Key Pressed but no application is set
+2022-10-29 21:43:27.7355|INFO|com.barraider.wintools|24|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:27.7935|INFO|com.barraider.wintools|7|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:28.6971|INFO|com.barraider.wintools|18|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:28.6971|WARN|com.barraider.wintools|18|WinTools.Actions.AppPlaybackDeviceAction Key Pressed but no device is set
+2022-10-29 21:43:32.5333|INFO|com.barraider.wintools|6|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:32.5898|INFO|com.barraider.wintools|13|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:34.2325|INFO|com.barraider.wintools|11|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:34.2906|INFO|com.barraider.wintools|7|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:34.7125|INFO|com.barraider.wintools|22|WinTools.Actions.AppPlaybackDeviceAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:34.7125|INFO|com.barraider.wintools|11|WinTools.Actions.AppPlaybackDeviceAction FetchPlaybackDevices returned 4 playback devices
+2022-10-29 21:43:36.7952|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:36.7952|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:36.8612|INFO|com.barraider.wintools|6|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:37.6531|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:37.6531|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:37.6531|INFO|com.barraider.wintools|13|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:38.8921|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:38.8921|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:38.9601|INFO|com.barraider.wintools|11|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:41.8362|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:41.8362|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:41.8967|INFO|com.barraider.wintools|6|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:42.3720|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:42.3720|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:42.3720|INFO|com.barraider.wintools|24|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:44.8540|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:44.8540|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:44.9125|INFO|com.barraider.wintools|22|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:46.3556|INFO|com.barraider.wintools|28|WinTools.Actions.AppPlaybackDeviceAction Key Pressed
+2022-10-29 21:43:46.3556|INFO|com.barraider.wintools|28|Modifying Spotify's playback device to be Casque pour téléphone (HyperX Virtual Surround Sound)
+2022-10-29 21:43:46.4141|INFO|com.barraider.wintools|24|AudioPolicyConfigService SetDefaultEndPoint {0.0.0.00000000}.{917840f9-c019-4421-907f-7ffabf70de62} 15984
+2022-10-29 21:43:50.7176|INFO|com.barraider.wintools|23|WinTools.Actions.AppPlaybackDeviceAction Destructor called
+2022-10-29 21:43:53.3440|INFO|com.barraider.wintools|6|WinTools.Actions.AppMuteToggleAction FetchApplication returned 3 volume apps
+2022-10-29 21:43:59.5289|INFO|com.barraider.wintools|17|WinTools.Actions.AppMuteToggleAction Key Pressed
+2022-10-29 21:43:59.5289|INFO|com.barraider.wintools|6|WinTools.Actions.AppMuteToggleAction Toggling Mute for Spotify
+2022-10-29 21:43:59.5414|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 10248
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 10248
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|ModifyAppMute modifying mute status to True for Process Spotify PID 15984
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 14996
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 16356
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 14888
+2022-10-29 21:43:59.5524|INFO|com.barraider.wintools|24|Could not find volume object for Spotify PID 16712
+2022-10-29 21:44:02.0566|INFO|com.barraider.wintools|17|WinTools.Actions.AppMuteToggleAction Key Pressed
+2022-10-29 21:44:02.0566|INFO|com.barraider.wintools|7|WinTools.Actions.AppMuteToggleAction Toggling Mute for Spotify
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 10248
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 10248
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|ModifyAppMute modifying mute status to False for Process Spotify PID 15984
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 14996
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 16356
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 14888
+2022-10-29 21:44:02.0691|INFO|com.barraider.wintools|22|Could not find volume object for Spotify PID 16712
+2022-10-29 21:44:07.6299|INFO|com.barraider.wintools|17|WinTools.Actions.AppMuteToggleAction Destructor called
+2022-10-29 21:44:45.1471|INFO|com.barraider.wintools|17|Destructor called
+2022-10-29 21:44:46.0558|INFO|com.barraider.wintools|17|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:44:51.8971|INFO|com.barraider.wintools|17|Destructor called
+2022-10-29 21:46:28.4239|INFO|com.barraider.wintools|17|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:46:28.7932|INFO|com.barraider.wintools|26|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:46:29.1634|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:46:29.5943|INFO|com.barraider.wintools|17|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:47:21.3700|INFO|com.barraider.wintools|5|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:47:31.2828|INFO|com.barraider.wintools|5|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:47:32.8544|INFO|com.barraider.wintools|5|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:47:33.3367|INFO|com.barraider.wintools|5|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:47:46.7225|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 1 Column: 3
+2022-10-29 21:47:46.7470|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process StreamDeck PID 35572
+2022-10-29 21:47:46.7470|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process StreamDeck PID 35572
+2022-10-29 21:47:48.1240|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 1 Column: 3
+2022-10-29 21:47:48.1435|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to False for Process StreamDeck PID 35572
+2022-10-29 21:47:48.1440|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to False for Process StreamDeck PID 35572
+2022-10-29 21:47:48.6680|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to True for Process Spotify PID 15984
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 14996
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 16356
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 14888
+2022-10-29 21:47:48.6780|INFO|com.barraider.wintools|10|Could not find volume object for Spotify PID 16712
+2022-10-29 21:47:50.6865|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:47:50.6965|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Spotify PID 15984
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14996
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16356
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14888
+2022-10-29 21:47:50.7080|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16712
+2022-10-29 21:47:51.2279|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process Spotify PID 15984
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14996
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16356
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14888
+2022-10-29 21:47:51.2379|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16712
+2022-10-29 21:47:51.6594|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:47:51.6704|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 10248
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Spotify PID 15984
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14996
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16356
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 14888
+2022-10-29 21:47:51.6814|INFO|com.barraider.wintools|12|Could not find volume object for Spotify PID 16712
+2022-10-29 21:47:51.9636|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 1 Column: 3
+2022-10-29 21:47:51.9836|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to True for Process StreamDeck PID 35572
+2022-10-29 21:47:51.9836|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to True for Process StreamDeck PID 35572
+2022-10-29 21:47:56.1949|INFO|com.barraider.wintools|5|NotifyKeyPressed: Row: 1 Column: 3
+2022-10-29 21:47:56.2149|INFO|com.barraider.wintools|31|ModifyAppMute modifying mute status to False for Process StreamDeck PID 35572
+2022-10-29 21:47:56.2149|INFO|com.barraider.wintools|31|ModifyAppMute modifying mute status to False for Process StreamDeck PID 35572
+2022-10-29 21:47:57.2835|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:47:57.2935|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to True for Process Ferdi PID 16740
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 18284
+2022-10-29 21:47:57.3045|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 10212
+2022-10-29 21:47:58.2488|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to False for Process Ferdi PID 16740
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 18284
+2022-10-29 21:47:58.2588|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 10212
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:48:00.1458|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|ModifyAppMute modifying mute status to True for Process Ferdi PID 16740
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 18284
+2022-10-29 21:48:00.1673|INFO|com.barraider.wintools|10|Could not find volume object for Ferdi PID 10212
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:48:01.4878|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 6128
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 13428
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 35480
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 8792
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 14200
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 37936
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Ferdi PID 16740
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 18284
+2022-10-29 21:48:01.5098|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 10212
+2022-10-29 21:48:02.4614|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:48:02.4614|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 10248
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 10248
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|ModifyAppMute modifying mute status to True for Process Spotify PID 15984
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 14996
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 16356
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 14888
+2022-10-29 21:48:02.4819|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 16712
+2022-10-29 21:48:03.8132|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-29 21:48:03.8252|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 10248
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 10248
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|ModifyAppMute modifying mute status to False for Process Spotify PID 15984
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 14996
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 16356
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 14888
+2022-10-29 21:48:03.8357|INFO|com.barraider.wintools|31|Could not find volume object for Spotify PID 16712
+2022-10-29 21:48:05.2725|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:05.2725|INFO|com.barraider.wintools|12|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:05.4535|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:05.4650|INFO|com.barraider.wintools|10|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:05.6860|INFO|com.barraider.wintools|34|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:05.6965|INFO|com.barraider.wintools|30|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:05.8091|INFO|com.barraider.wintools|34|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:05.8191|INFO|com.barraider.wintools|10|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:06.0009|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:06.0134|INFO|com.barraider.wintools|30|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:06.4732|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:48:06.4732|INFO|com.barraider.wintools|10|ModifyAppVolume modifying volume from 1 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:48:07.3846|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:07.3951|INFO|com.barraider.wintools|12|ModifyAppVolume modifying volume from 0,85 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:07.8531|INFO|com.barraider.wintools|35|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:48:07.8651|INFO|com.barraider.wintools|12|ModifyAppVolume modifying volume from 1 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:48:08.2631|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:48:08.2731|INFO|com.barraider.wintools|12|ModifyAppVolume modifying volume from 0,85 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:48:08.7930|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:08.8035|INFO|com.barraider.wintools|10|ModifyAppVolume modifying volume from 0,7 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:09.0808|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:48:09.0923|INFO|com.barraider.wintools|12|ModifyAppVolume modifying volume from 0,85 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:48:34.0140|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:48:35.3069|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:48:35.6787|INFO|com.barraider.wintools|18|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:48:36.4821|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:48:42.3878|INFO|com.barraider.wintools|18|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:48:43.4313|INFO|com.barraider.wintools|18|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:51:39.9525|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:52:05.6321|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:52:05.6321|INFO|com.barraider.wintools|26|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:52:05.6901|INFO|com.barraider.wintools|20|IsUIReady was called but Subscribers: /15
+2022-10-29 21:52:05.6956|INFO|com.barraider.wintools|19|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:52:07.0687|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:52:07.0687|INFO|com.barraider.wintools|42|ModifyAppVolume modifying volume from 1 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:52:07.8450|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:52:07.8555|INFO|com.barraider.wintools|16|ModifyAppVolume modifying volume from 0,85 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:52:08.4348|INFO|com.barraider.wintools|46|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:52:08.4458|INFO|com.barraider.wintools|43|ModifyAppVolume modifying volume from 0,7 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:52:10.2069|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:52:37.2639|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:52:39.0822|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:53:17.5148|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:53:18.4261|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:53:18.9972|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:53:19.6771|INFO|com.barraider.wintools|14|Key Pressed WinTools.PingAction
+2022-10-29 21:53:29.7434|INFO|com.barraider.wintools|39|Key Pressed WinTools.PingAction
+2022-10-29 21:53:40.8916|INFO|com.barraider.wintools|39|Key Pressed WinTools.NotificationToastAction
+2022-10-29 21:53:49.3912|INFO|com.barraider.wintools|23|Key Pressed WinTools.NotificationToastAction
+2022-10-29 21:53:58.6013|INFO|com.barraider.wintools|23|Key Pressed WinTools.NotificationToastAction
+2022-10-29 21:54:09.5856|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:54:21.0525|INFO|com.barraider.wintools|18|Key Pressed
+2022-10-29 21:54:23.0530|INFO|com.barraider.wintools|27|Destructor called
+2022-10-29 21:54:25.0497|INFO|com.barraider.wintools|27|WMI returned 4 monitors
+2022-10-29 21:54:25.0517|INFO|com.barraider.wintools|27|QueryDisplay returned 4 paths and 8 modes
+2022-10-29 21:54:25.0517|INFO|com.barraider.wintools|27|QueryDisplay returned 4 monitors
+2022-10-29 21:54:25.0517|INFO|com.barraider.wintools|27|GetAggregatedMonitorInfo returned 4 aggregated monitors
+2022-10-29 21:54:25.0517|INFO|com.barraider.wintools|27|Populated 4 screens
+2022-10-29 21:54:30.7894|INFO|com.barraider.wintools|27|Populated 4 screens
+2022-10-29 21:54:40.9023|INFO|com.barraider.wintools|27|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:54:42.5146|INFO|com.barraider.wintools|27|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:54:42.9956|INFO|com.barraider.wintools|27|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:54:48.1440|INFO|com.barraider.wintools|27|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:54:55.3900|INFO|com.barraider.wintools|40|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:55:08.1490|INFO|com.barraider.wintools|56|Key Pressed WinTools.Actions.PrimaryActionMonitor
+2022-10-29 21:55:28.8792|WARN|com.barraider.wintools|18|WinTools.Actions.VirtualDesktopShowAction unsupported on this Virtual Desktop verison
+2022-10-29 21:55:29.8707|INFO|com.barraider.wintools|18|Destructor called
+2022-10-29 21:55:33.3952|INFO|com.barraider.wintools|18|Destructor called
+2022-10-29 21:55:39.2121|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopCreateAction
+2022-10-29 21:55:39.2121|DEBUG|com.barraider.wintools|18|Logger Initialized
+2022-10-29 21:55:39.2121|INFO|com.barraider.wintools|18|GetWindowsReleaseVersion ReleaseId: 2009
+2022-10-29 21:55:39.2121|WARN|com.barraider.wintools|18|CreateNewVirtualDesktop: Desktop name is null!
+2022-10-29 21:55:45.2893|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopCreateAction
+2022-10-29 21:55:58.2450|INFO|com.barraider.wintools|18|Destructor called
+2022-10-29 21:56:06.6500|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:08.6446|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:15.7765|INFO|com.barraider.wintools|29|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:16.3551|INFO|com.barraider.wintools|14|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:17.5151|INFO|com.barraider.wintools|14|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:17.8096|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:18.1506|INFO|com.barraider.wintools|18|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:18.3961|INFO|com.barraider.wintools|14|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:19.2353|INFO|com.barraider.wintools|14|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:19.6463|INFO|com.barraider.wintools|14|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 21:56:22.8876|INFO|com.barraider.wintools|18|GlobalSettingsManager::RequestGlobalSettings called
+2022-10-29 21:56:23.2046|INFO|com.barraider.wintools|39|GlobalSettingsManager::GetGlobalSettingsAsync triggered
+2022-10-29 21:56:23.2111|WARN|com.barraider.wintools|18|SetGlobalSettings called while Global Settings are null, creating new object
+2022-10-29 21:56:29.8011|INFO|com.barraider.wintools|18|Key Pressed WinTools.WindowsExplorerAction
+2022-10-29 21:56:29.9228|INFO|com.barraider.wintools|18|Key Released WinTools.WindowsExplorerAction
+2022-10-29 21:56:29.9228|INFO|com.barraider.wintools|18|Short Keypress
+2022-10-29 21:56:29.9228|WARN|com.barraider.wintools|18|LaunchWindowsExplorer called, but Path is empty
+2022-10-29 21:56:32.9337|INFO|com.barraider.wintools|18|Key Pressed WinTools.WindowsExplorerAction
+2022-10-29 21:56:33.1486|INFO|com.barraider.wintools|18|Key Released WinTools.WindowsExplorerAction
+2022-10-29 21:56:33.1486|INFO|com.barraider.wintools|18|Short Keypress
+2022-10-29 21:56:33.1486|WARN|com.barraider.wintools|18|LaunchWindowsExplorer called, but Path is empty
+2022-10-29 21:56:44.0886|INFO|com.barraider.wintools|57|Key Pressed WinTools.WindowsExplorerAction
+2022-10-29 21:56:44.2099|INFO|com.barraider.wintools|57|Key Released WinTools.WindowsExplorerAction
+2022-10-29 21:56:44.2099|INFO|com.barraider.wintools|57|Short Keypress
+2022-10-29 21:56:44.2099|WARN|com.barraider.wintools|57|LaunchWindowsExplorer called, but Path is empty
+2022-10-29 21:56:46.5048|INFO|com.barraider.wintools|57|Key Pressed WinTools.WindowsExplorerAction
+2022-10-29 21:56:46.6127|INFO|com.barraider.wintools|57|Key Released WinTools.WindowsExplorerAction
+2022-10-29 21:56:46.6132|INFO|com.barraider.wintools|57|Short Keypress
+2022-10-29 21:56:46.6132|WARN|com.barraider.wintools|57|LaunchWindowsExplorer called, but Path is empty
+2022-10-29 21:56:50.5060|INFO|com.barraider.wintools|58|Destructor called
+2022-10-29 21:56:59.1633|INFO|com.barraider.wintools|58|Destructor called
+2022-10-29 21:57:03.5474|ERROR|com.barraider.wintools|39|GetService called with empty ServiceName
+2022-10-29 21:57:04.5478|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:05.5519|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:06.5560|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:07.5614|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:08.5649|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:09.5686|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:10.5743|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:11.5803|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:12.5856|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:13.5888|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:14.5898|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:15.5935|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:16.5974|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:17.6024|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:18.6019|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:19.6023|ERROR|com.barraider.wintools|57|GetService called with empty ServiceName
+2022-10-29 21:57:20.6057|ERROR|com.barraider.wintools|14|GetService called with empty ServiceName
+2022-10-29 21:57:21.6114|ERROR|com.barraider.wintools|14|GetService called with empty ServiceName
+2022-10-29 21:57:22.6143|ERROR|com.barraider.wintools|14|GetService called with empty ServiceName
+2022-10-29 21:57:23.6168|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:24.6201|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:25.6218|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:26.6233|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:27.6284|ERROR|com.barraider.wintools|14|GetService called with empty ServiceName
+2022-10-29 21:57:28.6295|ERROR|com.barraider.wintools|14|GetService called with empty ServiceName
+2022-10-29 21:57:29.6430|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:30.6460|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:31.6480|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:32.6519|ERROR|com.barraider.wintools|58|GetService called with empty ServiceName
+2022-10-29 21:57:34.8891|INFO|com.barraider.wintools|29|Destructor called
+2022-10-29 21:57:45.4772|INFO|com.barraider.wintools|29|Key Pressed WinTools.MultiClipAction
+2022-10-29 21:57:45.5911|INFO|com.barraider.wintools|29|Key Released WinTools.MultiClipAction
+2022-10-29 21:57:45.5911|INFO|com.barraider.wintools|29|WinTools.MultiClipAction Short Keypress
+2022-10-29 21:57:46.9451|INFO|com.barraider.wintools|29|Key Pressed WinTools.MultiClipAction
+2022-10-29 21:57:47.1211|INFO|com.barraider.wintools|29|Key Released WinTools.MultiClipAction
+2022-10-29 21:57:47.1211|INFO|com.barraider.wintools|29|WinTools.MultiClipAction Short Keypress
+2022-10-29 21:57:49.1128|WARN|com.barraider.wintools|29|resetMultiClips called, clipboards are cleared
+2022-10-29 21:57:55.7047|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:02.4986|INFO|com.barraider.wintools|23|Key Pressed WinTools.LockAction
+2022-10-29 21:58:02.4986|INFO|com.barraider.wintools|23|Computer Locked
+2022-10-29 21:58:08.5581|INFO|com.barraider.wintools|23|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:58:08.5581|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:08.5581|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:08.5581|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:08.5581|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:09.8440|INFO|com.barraider.wintools|23|Destructor called
+2022-10-29 21:58:11.1223|INFO|com.barraider.wintools|23|Key Pressed WinTools.Actions.KeyboardKeyToggleAction - Changing state for key: Caps_Lock
+2022-10-29 21:58:12.1033|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardKeyToggleAction - Changing state for key: Caps_Lock
+2022-10-29 21:58:14.1033|INFO|com.barraider.wintools|23|WinTools.Actions.KeyboardKeyToggleAction Destructor called
+2022-10-29 21:58:22.4983|INFO|com.barraider.wintools|23|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:24.2904|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:25.6306|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:27.1624|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:28.5793|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:29.3734|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:30.5888|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:33.2874|INFO|com.barraider.wintools|25|Key Pressed WinTools.Actions.KeyboardLanguageAction
+2022-10-29 21:58:44.6880|INFO|com.barraider.wintools|57|WinTools.Actions.KeyboardLanguageAction Destructor called
+2022-10-29 21:59:02.6979|INFO|com.barraider.wintools|57|Destructor called
+2022-10-29 21:59:03.4762|INFO|com.barraider.wintools|54|Destructor called
+2022-10-29 21:59:23.1401|INFO|com.barraider.wintools|17|WinTools.Actions.AppVolumeSetAction FetchApplication returned 3 volume apps
+2022-10-29 21:59:25.7130|INFO|com.barraider.wintools|54|WinTools.Actions.AppVolumeSetAction Destructor called
+2022-10-29 21:59:39.1054|INFO|com.barraider.wintools|51|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:59:39.1054|INFO|com.barraider.wintools|54|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|52|IsUIReady was called but Subscribers: /15
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|Destructor called
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|Destructor called
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|Destructor called
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|Destructor called
+2022-10-29 21:59:39.1659|INFO|com.barraider.wintools|50|Destructor called
+2022-10-29 21:59:41.9081|INFO|com.barraider.wintools|42|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:59:41.9191|INFO|com.barraider.wintools|55|ModifyAppVolume modifying volume from 0,5500001 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:59:42.0885|INFO|com.barraider.wintools|42|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:59:42.0995|INFO|com.barraider.wintools|55|ModifyAppVolume modifying volume from 0,7 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:59:42.3255|INFO|com.barraider.wintools|42|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:59:42.3365|INFO|com.barraider.wintools|52|ModifyAppVolume modifying volume from 0,85 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:59:42.4476|INFO|com.barraider.wintools|42|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:59:42.4586|INFO|com.barraider.wintools|17|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:59:42.6427|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 21:59:42.6547|INFO|com.barraider.wintools|39|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-29 21:59:43.5431|INFO|com.barraider.wintools|51|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:44.1721|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:48.0361|INFO|com.barraider.wintools|44|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:59:48.0361|INFO|com.barraider.wintools|51|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|55|IsUIReady was called but Subscribers: /15
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|Destructor called
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|Destructor called
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|Destructor called
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|Destructor called
+2022-10-29 21:59:48.0986|INFO|com.barraider.wintools|51|Destructor called
+2022-10-29 21:59:48.7991|INFO|com.barraider.wintools|46|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:59:48.8101|INFO|com.barraider.wintools|29|ModifyAppVolume modifying volume from 1 by -0,15 for Process Spotify PID 15984
+2022-10-29 21:59:49.2096|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:49.7596|INFO|com.barraider.wintools|44|Destructor called
+2022-10-29 21:59:58.7066|INFO|com.barraider.wintools|44|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 21:59:58.7066|INFO|com.barraider.wintools|48|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|29|IsUIReady was called but Subscribers: /15
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|Destructor called
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|Destructor called
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|Destructor called
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|Destructor called
+2022-10-29 21:59:58.7711|INFO|com.barraider.wintools|48|Destructor called
+2022-10-29 21:59:59.6631|INFO|com.barraider.wintools|45|NotifyKeyPressed: Row: 2 Column: 2
+2022-10-29 21:59:59.6631|INFO|com.barraider.wintools|8|ModifyAppVolume modifying volume from 0,85 by -0,15 for Process Spotify PID 15984
+2022-10-29 22:00:00.1425|INFO|com.barraider.wintools|51|NotifyKeyPressed: Row: 0 Column: 2
+2022-10-29 22:00:00.1534|INFO|com.barraider.wintools|52|ModifyAppVolume modifying volume from 0,7 by 0,15 for Process Spotify PID 15984
+2022-10-29 22:00:00.4979|INFO|com.barraider.wintools|43|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:01.1151|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:03.2445|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:00:59.1092|INFO|com.barraider.wintools|14|Disconnect event received
+2022-10-29 22:00:59.1092|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-29 22:01:00.2482|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-29 22:01:00.2817|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-29 22:01:00.5427|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-29 22:01:00.5427|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-29 22:01:02.6093|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-29 22:01:02.6093|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-29 22:01:45.1991|DEBUG|com.barraider.wintools|11|Logger Initialized
+2022-10-29 22:01:45.1991|INFO|com.barraider.wintools|11|GetWindowsReleaseVersion ReleaseId: 2009
+2022-10-29 22:01:45.7881|INFO|com.barraider.wintools|11|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 22:01:45.7881|INFO|com.barraider.wintools|10|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|Destructor called
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|Destructor called
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|Destructor called
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|Destructor called
+2022-10-29 22:01:45.8196|INFO|com.barraider.wintools|11|Destructor called
+2022-10-29 22:01:46.6246|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 22:01:47.4917|INFO|com.barraider.wintools|20|Key Pressed WinTools.Actions.DriveInfoAction
+2022-10-29 22:01:52.4296|INFO|com.barraider.wintools|20|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 22:01:52.4296|INFO|com.barraider.wintools|12|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 22:01:52.4731|INFO|com.barraider.wintools|6|IsUIReady was called but Subscribers: /15
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|Destructor called
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|Destructor called
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|Destructor called
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|Destructor called
+2022-10-29 22:01:52.4906|INFO|com.barraider.wintools|12|Destructor called
+2022-10-29 22:02:00.9751|INFO|com.barraider.wintools|15|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|Destructor called
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|Destructor called
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|Destructor called
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|Destructor called
+2022-10-29 22:02:01.7784|INFO|com.barraider.wintools|8|Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|Destructor called
+2022-10-29 22:05:50.9802|INFO|com.barraider.wintools|33|Destructor called
+2022-10-29 22:20:11.7105|INFO|com.barraider.wintools|69|Disconnect event received
+2022-10-29 22:20:11.7105|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-29 22:20:12.9392|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-29 22:20:12.9712|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-29 22:20:13.2487|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-29 22:20:13.2487|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-29 22:20:15.3191|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-29 22:20:15.3191|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-29 22:20:22.6730|INFO|com.barraider.wintools|3|Disconnect event received
+2022-10-29 22:20:22.6730|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-29 22:20:23.9406|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-29 22:20:23.9756|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-29 22:20:24.2461|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-29 22:20:24.2461|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-29 22:20:26.3164|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-29 22:20:26.3164|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-29 22:22:25.4460|DEBUG|com.barraider.wintools|14|Logger Initialized
+2022-10-29 22:22:25.4460|INFO|com.barraider.wintools|14|GetWindowsReleaseVersion ReleaseId: 2009
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:22:28.7188|INFO|com.barraider.wintools|14|Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|Destructor called
+2022-10-29 22:41:43.0714|INFO|com.barraider.wintools|68|Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|Destructor called
+2022-10-29 22:42:33.2602|INFO|com.barraider.wintools|71|Destructor called
+2022-10-29 23:57:42.1474|INFO|com.barraider.wintools|122|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 23:57:42.1474|INFO|com.barraider.wintools|120|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|Destructor called
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|Destructor called
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|Destructor called
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|Destructor called
+2022-10-29 23:57:42.1814|INFO|com.barraider.wintools|122|Destructor called
+2022-10-29 23:57:43.6090|INFO|com.barraider.wintools|125|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 23:57:44.1682|INFO|com.barraider.wintools|125|Key Pressed WinTools.PingAction
+2022-10-29 23:57:46.3282|INFO|com.barraider.wintools|125|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 23:57:47.0074|INFO|com.barraider.wintools|125|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 23:57:47.6877|INFO|com.barraider.wintools|125|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-29 23:57:50.1434|INFO|com.barraider.wintools|125|Key Pressed WinTools.Actions.DriveInfoAction
+2022-10-29 23:57:50.3928|INFO|com.barraider.wintools|125|Key Pressed WinTools.Actions.DriveInfoAction
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:53.9627|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:57.5081|INFO|com.barraider.wintools|106|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-29 23:57:57.5081|INFO|com.barraider.wintools|125|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-29 23:57:57.5531|INFO|com.barraider.wintools|120|IsUIReady was called but Subscribers: /15
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:57.5721|INFO|com.barraider.wintools|125|Destructor called
+2022-10-29 23:57:58.5182|INFO|com.barraider.wintools|116|NotifyKeyPressed: Row: 2 Column: 1
+2022-10-29 23:57:58.5347|DEBUG|com.barraider.wintools|118|Logger Initialized
+2022-10-29 23:57:58.5347|INFO|com.barraider.wintools|118|ModifyAppVolume modifying volume from 0,85 by -0,15 for Process Spotify PID 15984
+2022-10-29 23:57:58.8254|INFO|com.barraider.wintools|11|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|Destructor called
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|Destructor called
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|Destructor called
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|Destructor called
+2022-10-29 23:57:59.2527|INFO|com.barraider.wintools|7|Destructor called

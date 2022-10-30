@@ -1,0 +1,399 @@
+[
+    {
+        "path": "1T_ProjectManager.png",
+        "name": "1T_ProjectManager.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1U_MediaTab.png",
+        "name": "1U_MediaTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1V_CutTab.png",
+        "name": "1V_CutTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1W_EditTab.png",
+        "name": "1W_EditTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1X_FusionTab.png",
+        "name": "1X_FusionTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1Z_FairlightTab.png",
+        "name": "1Z_FairlightTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1Y_ColourTab.png",
+        "name": "1Y_ColourTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1ZA_DeliverTab.png",
+        "name": "1ZA_DeliverTab.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1E_Reverse-Grey.png",
+        "name": "1E_Reverse-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1F_Stop-Grey.png",
+        "name": "1F_Stop-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1G_Play-Grey.png",
+        "name": "1G_Play-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1C_OneFrameLeft-Grey.png",
+        "name": "1C_OneFrameLeft-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1D_OneFrameRight-Grey.png",
+        "name": "1D_OneFrameRight-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1A_PreviousClip-Grey.png",
+        "name": "1A_PreviousClip-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "1B_NextClip-Grey.png",
+        "name": "1B_NextClip-Grey.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2H_ReturnHome.png",
+        "name": "2H_ReturnHome.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "7X_PrinterLightsFull.png",
+        "name": "7X_PrinterLightsFull.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6I_SerialNode.png",
+        "name": "6I_SerialNode.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6Q_CircleShape.png",
+        "name": "6Q_CircleShape.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6J_OutsideNode.png",
+        "name": "6J_OutsideNode.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "5N_ShowScopes.png",
+        "name": "5N_ShowScopes.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "5I_ApplyPreviousGrade.png",
+        "name": "5I_ApplyPreviousGrade.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "8L_NextVersion.png",
+        "name": "8L_NextVersion.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2J_NewTimeline.png",
+        "name": "2J_NewTimeline.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "8Q_GrabStill.png",
+        "name": "8Q_GrabStill.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "3ZC_ExtendEdit.png",
+        "name": "3ZC_ExtendEdit.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "8ZC_GoToHome.png",
+        "name": "8ZC_GoToHome.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "3I_NormalMode.png",
+        "name": "3I_NormalMode.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "3J_TrimMode.png",
+        "name": "3J_TrimMode.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "EnableDisableToggle_V1A.png",
+        "name": "EnableDisableToggle_V1A.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "EnableDisableToggle_V1D.png",
+        "name": "EnableDisableToggle_V1D.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "AutoTrackSelector_V1-Track-A.png",
+        "name": "AutoTrackSelector_V1-Track-A.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "AutoTrackSelector_V1-Track-D.png",
+        "name": "AutoTrackSelector_V1-Track-D.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "AutoTrackSelector_A1-Track-A.png",
+        "name": "AutoTrackSelector_A1-Track-A.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "AutoTrackSelector_A1-Track-D.png",
+        "name": "AutoTrackSelector_A1-Track-D.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6ZE_ToggleViewerOverlayOn.png",
+        "name": "6ZE_ToggleViewerOverlayOn.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6ZE_ToggleViewerOverlayOff.png",
+        "name": "6ZE_ToggleViewerOverlayOff.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "6U_HighlightMode.png",
+        "name": "6U_HighlightMode.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2E_ProjectSettings.png",
+        "name": "2E_ProjectSettings.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "4Q_SafeAreaToggleOff.png",
+        "name": "4Q_SafeAreaToggleOff.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "4Q_SafeAreaToggleOn.png",
+        "name": "4Q_SafeAreaToggleOn.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2B_1.33.png",
+        "name": "2B_1.33.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2G_2.35.png",
+        "name": "2G_2.35.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "7K_AddBlueFull.png",
+        "name": "7K_AddBlueFull.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "7I_AddRedFull.png",
+        "name": "7I_AddRedFull.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "7J_AddGreenFull.png",
+        "name": "7J_AddGreenFull.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "7O_AddMasterFull.png",
+        "name": "7O_AddMasterFull.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "5Q_CopyMemoryA.png",
+        "name": "5Q_CopyMemoryA.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "5Y_PasteMemoryA.png",
+        "name": "5Y_PasteMemoryA.png",
+        "tags": [
+            "davinci",
+            "resolve"
+        ]
+    },
+    {
+        "path": "2I_NewBin.png",
+        "name": "2I_NewBin.png",
+        "tags": []
+    }
+]

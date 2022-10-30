@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui,viewport-fit=cover">
+    <meta name=apple-mobile-web-app-capable content=yes>
+    <meta name=apple-mobile-web-app-status-bar-style content=black>
+    <title>API Ninja Settings</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdpi.css">
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdtools.common.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/pickers.js"></script>
+    <script src="APINinja.js"></script>
+</head>
+<body>
+    <div class="sdpi-wrapper">
+        <details class="message"><summary></summary></details>
+        <details class="message">
+            <summary>* For feedback/suggestions contact me at <span class="linkspan" onclick="openWebsite()">https://BarRaider.com</span></summary>
+        </details>
+        <details class="message">
+            <summary>* Visit <span class="linkspan" onclick="openDiscord()">discord.BarRaider.com</span> for more API Ninja scripts</summary>
+        </details>
+        <div class="sdpi-item" id="select_single">
+            <div class="sdpi-item-label">Request Type</div>
+            <select class="sdpi-item-value select sdProperty" id="requestType" oninput="setSettings()">
+                <option value="0" selected>GET</option>
+                <option value="5">PATCH</option>
+                <option value="1">POST</option>
+                <option value="2">PUT</option>
+                <option value="3">DELETE</option>
+            </select>
+        </div>
+        <div class="sdpi-item" id="dvServerName">
+            <div class="sdpi-item-label">API URL</div>
+            <input class="sdpi-item-value sdProperty" placeholder="http://api.barraider.com/v1/..." value="" id="url" oninput="setSettings()">
+        </div>
+        <div class="sdpi-item" id="select_single">
+            <div class="sdpi-item-label">Content Type</div>
+            <select class="sdpi-item-value select sdProperty" id="contentType" oninput="setSettings()" value="0">
+                <option value="">- NONE -</option>
+                <option value="application/json">application/json</option>
+                <option value="application/xml">application/xml</option>
+                <option value="text/plain">text/plain</option>
+                <option value="text/html">text/html</option>
+            </select>
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvLoadFromFiles">
+            <div class="sdpi-item-value">
+                <input id="loadFromFiles" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="loadFromFiles" class="sdpi-item-label"><span></span>Load data/headers from files</label>
+            </div>
+        </div>
+        <div id="dvFileAreas" style="display:none">
+            <div id="dvFileNames">
+                <details class="message">
+                    <summary>One header per line: <b>headername:value</b></summary>
+                </details>
+                <div class="sdpi-item" id="dvHeadersFile">
+                    <div class="sdpi-item-label">Headers File</div>
+                    <div class="sdpi-item-group file" id="filepickergroup">
+                        <input class="sdpi-item-value sdProperty sdFile" type="file" id="headersFile" accept=".txt" oninput="setSettings()">
+                        <label class="sdpi-file-info " for="headersFile" id="headersFileFilename">No file...</label>
+                        <label class="sdpi-file-label" for="headersFile">Choose file...</label>
+                    </div>
+                </div>
+                <div class="sdpi-item" id="dvDataFile">
+                    <div class="sdpi-item-label">Data File</div>
+                    <div class="sdpi-item-group file" id="filepickergroup">
+                        <input class="sdpi-item-value sdProperty sdFile" type="file" id="dataFile" accept=".txt" oninput="setSettings()">
+                        <label class="sdpi-file-info " for="dataFile" id="dataFileFilename">No file...</label>
+                        <label class="sdpi-file-label" for="dataFile">Choose file...</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dvTextAreas">
+            <details class="message">
+                <summary>One header per line: <b>headername:value</b></summary>
+            </details>
+            <div type="textarea" class="sdpi-item" id="dvHeaders">
+                <div class="sdpi-item-label">Headers</div>
+                <span class="sdpi-item-value textarea">
+                    <textarea type="textarea" oninput="setSettings()" class="sdProperty" id="headers" placeholder='header1:value1'></textarea>
+                </span>
+            </div>
+            <div type="textarea" class="sdpi-item" id="dvData">
+                <div class="sdpi-item-label">Data</div>
+                <span class="sdpi-item-value textarea">
+                    <textarea type="textarea" oninput="setSettings()" class="sdProperty" id="data"></textarea>
+                </span>
+            </div>
+        </div>
+        <div class="sdpi-item" id="dvResponseShown">
+            <div class="sdpi-item-label">Response shown</div>
+            <input class="sdpi-item-value sdProperty" placeholder="" value="" id="responseShown" oninput="setSettings()">
+        </div>
+        <details class="message titleAlignedSmall">
+            <summary>Click <span class="linkspan">this text</span> for Response Shown instructions</summary>
+            <p>Response from API that will be shown on key. Use * to show everything, or use a JSON path such as <b>name.firstname</b> </p>
+        </details>
+        <div type="checkbox" class="sdpi-item" id="dvParseResponse">
+            <div class="sdpi-item-value">
+                <input id="parseResponse" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="parseResponse" class="sdpi-item-label"><span></span>Parse/Format 'Response shown'</label>
+            </div>
+        </div>
+        <div id="dvParseResponseSettings" style="display:none">
+            <div class="sdpi-item" id="dvResponseRegex">
+                <div class="sdpi-item-label">Regex</div>
+                <input class="sdpi-item-value sdProperty" placeholder="^(\d)\.(\d*)$" value="" id="responseRegex" oninput="setSettings()">
+            </div>
+            <div class="sdpi-item" id="dvResponseRegexFetch">
+                <div class="sdpi-item-label">Fetch</div>
+                <input class="sdpi-item-value sdProperty" placeholder="M0 / M2G1" value="" id="responseRegexFetch" oninput="setSettings()">
+            </div>
+            <details class="message">
+                <summary>* M0 for 1st Match, M2G1 for 2nd group in 3rd Match, etc.</summary>
+            </details>
+            <hr />
+            <div class="sdpi-item" id="dvResponseFormat">
+                <div class="sdpi-item-label">Format</div>
+                <input class="sdpi-item-value sdProperty" placeholder="{0:#.##} or {0:F0}" value="" id="responseFormat" oninput="setSettings()">
+            </div>
+            <details class="message">
+                <summary>* 'Format' requires numeric response. For syntax <span class="linkspan" onclick="openFormat()">click here.</span></summary>
+            </details>
+            <hr />
+        </div>
+        <div id="dvResponseTextSettings" style="display:none">
+            <div class="sdpi-item" id="dvTitlePrefix">
+                <div class="sdpi-item-label">Title Prefix</div>
+                <input class="sdpi-item-value sdProperty" placeholder="Follows: \n" value="" id="titlePrefix" oninput="setSettings()">
+            </div>
+            <div class="sdpi-item" id="dvtitleSuffix">
+                <div class="sdpi-item-label">Title Suffix</div>
+                <input class="sdpi-item-value sdProperty" placeholder="°C" value="" id="titleSuffix" oninput="setSettings()">
+            </div>
+        </div>
+        <hr />
+        <div type="radio" class="sdpi-item" id="rdResponseType">
+            <div class="sdpi-item-label">Response Type</div>
+            <div class="sdpi-item-value ">
+                <div class="sdpi-item-child">
+                    <input id="treatResponseAsText" class="sdProperty sdCheckbox" type="radio" name="rdResponseType" checked oninput="setSettings()">
+                    <label for="treatResponseAsText" class="sdpi-item-label"><span></span>Response is text</label>
+                </div>
+                <div class="sdpi-item-child">
+                    <input id="treatResponseAsImage" class="sdProperty sdCheckbox" type="radio" name="rdResponseType" oninput="setSettings()">
+                    <label for="treatResponseAsImage" class="sdpi-item-label"><span></span>Treat response as image for key</label>
+                </div>
+                <div class="sdpi-item-child">
+                    <input id="showCustomImages" class="sdProperty sdCheckbox" type="radio" name="rdResponseType" oninput="setSettings()">
+                    <label for="showCustomImages" class="sdpi-item-label"><span></span>Custom images based on response</label>
+                </div>
+            </div>
+        </div>
+        <div id="dvCustomImagesSettings" style="display:none">
+            <div class="sdpi-item" id="dvCustomImageValue">
+                <div class="sdpi-item-label">Image Value</div>
+                <input class="sdpi-item-value sdProperty" placeholder="Value for 'Matched Image'" value="" id="customImageValue" oninput="setSettings()">
+            </div>
+            <div class="sdpi-item" id="dvMatchedImage">
+                <div class="sdpi-item-label">Matched Image</div>
+                <div class="sdpi-item-group file" id="filepickergroup">
+                    <input class="sdpi-item-value sdProperty sdFile" type="file" id="matchedImage" accept=".jpg, .jpeg, .png, .ico, .gif, .bmp, .tiff" oninput="setSettings()">
+                    <label class="sdpi-file-info " for="matchedImage" id="matchedImageFilename">No file...</label>
+                    <label class="sdpi-file-label" for="matchedImage">Choose file...</label>
+                </div>
+            </div>
+            <div class="sdpi-item" id="dvUmatchedImage">
+                <div class="sdpi-item-label">Unmatched Image</div>
+                <div class="sdpi-item-group file" id="filepickergroup">
+                    <input class="sdpi-item-value sdProperty sdFile" type="file" id="unmatchedImage" accept=".jpg, .jpeg, .png, .ico, .gif, .bmp, .tiff" oninput="setSettings()">
+                    <label class="sdpi-file-info " for="unmatchedImage" id="unmatchedImageFilename">No file...</label>
+                    <label class="sdpi-file-label" for="unmatchedImage">Choose file...</label>
+                </div>
+            </div>
+        </div>
+        <div id="dvResponseAsImageSettings" style="display:none">
+            <div class="sdpi-item" id="dvResponseImageField">
+                <div class="sdpi-item-label">Image Field</div>
+                <input class="sdpi-item-value sdProperty" placeholder="" value="" id="responseImageField" oninput="setSettings()">
+            </div>
+            <details class="message titleAlignedSmall">
+                <summary>Click this text for Image Field instructions</summary>
+                <p>If the response is a binary image, leave this field empty. If the response is JSON where one of the fields is a URL for the image, use a JSON path such as 'book.imageurl' </p>
+            </details>
+        </div>
+        <hr />
+        <div class="sdpi-item" id="dvAutorun">
+            <div class="sdpi-item-label">Autorun every</div>
+            <input class="sdpi-item-value sdProperty" id="autorunMinutes" style="width:50%;" inputmode="numeric" pattern="[0-9]*" type="number" placeholder="1" oninput="setSettings()">
+            <div class="sdpi-item max30 leftMargin0" id="select_single">
+                <select class="sdpi-item-value select sdProperty" id="autorunType" oninput="setSettings()">
+                    <option value="0" selected>Minutes</option>
+                    <option value="1">Seconds</option>
+                </select>
+            </div>
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvHideSuccessIndicator">
+            <div class="sdpi-item-value">
+                <input id="hideSuccessIndicator" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="hideSuccessIndicator" class="sdpi-item-label"><span></span>Hide green success indicator</label>
+            </div>
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvSaveResponseToFile">
+            <div class="sdpi-item-value">
+                <input id="saveResponseToFile" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="saveResponseToFile" class="sdpi-item-label"><span></span>Save 'Response shown' to file</label>
+            </div>
+        </div>
+        <div id="dvSaveResponseSettings" style="display:none">
+            <div class="sdpi-item" id="dvResponseShownFileName">
+                <div class="sdpi-item-label">Response Filename</div>
+                <input class="sdpi-item-value sdProperty hasFileButton" disabled value="" id="responseShownFile">
+                <button class="max100 leftMargin0" onclick="openSaveFilePicker('Response Shown Filename','Text files (*.txt)|*.txt|All files (*.*)|*.*','responseShownFile')">...</button>
+            </div>
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvDebugLogging">
+            <div class="sdpi-item-value">
+                <input id="debugLogging" class="sdProperty sdCheckbox" type="checkbox" value="" oninput="setSettings()">
+                <label for="debugLogging" class="sdpi-item-label"><span></span>Add extra debug info to log</label>
+            </div>
+        </div>
+        <hr />
+        <div class="sdpi-item" id="dvExport">
+            <div class="sdpi-item-label">Export</div>
+            <button class="sdpi-item-value" onclick="exportSettings()">Export Settings</button>
+        </div>
+        <div class="sdpi-item" id="dvImport">
+            <div class="sdpi-item-label">Import</div>
+            <button class="sdpi-item-value" onclick="importSettings()">Import Settings</button>
+        </div>
+        <div class="sdpi-item">
+            <details class="message">
+                <summary>Note: Importing will overwrite all existing settings</summary>
+            </details>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Speed Test",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "11"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Run a Speed Test from you Stream Deck.",
+      "UUID": "com.barraider.speedtest.runtest",
+      "PropertyInspectorPath": "PropertyInspector/RunTest.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Run a Speedtest.Net speed test directly from you Stream Deck.",
+  "Name": "Speed Test",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://barraider.com/",
+  "Version": "1.2",
+  "CodePath": "com.barraider.speedtest",
+  "Category": "BarRaider",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "5.0"
+  }
+}

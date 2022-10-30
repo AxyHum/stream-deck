@@ -1,0 +1,21 @@
+{
+  "Name": "Web Requests",
+  "Description": "Send arbitrary web requests via HTTP or WebSocket.",
+  "Category": "Web Requests",
+  "gg.datagram.web-requests.http": {
+    "Name": "HTTP Request",
+    "Tooltip": "Send an HTTP request."
+  },
+  "gg.datagram.web-requests.websocket": {
+    "Name": "WebSocket Message",
+    "Tooltip": "Send a WebSocket message."
+  },
+  "Localization": {
+    "URL": "URL",
+    "Method": "Method",
+    "ContentType": "Content Type",
+    "Headers": "Headers",
+    "Message": "Message",
+    "Body": "Body"
+  }
+}

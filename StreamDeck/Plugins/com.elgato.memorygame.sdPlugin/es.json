@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "Restablecer",
+    "Solved": "Solucionado"
+  },
+  "Description": "Mantén ágil el cerebro con este juego de memoria con cartas.",
+  "Name": "Juego de memoria",
+  "com.elgato.memorygame.tile": {
+    "Name": "Casilla"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "Restablecer"
+  }
+}

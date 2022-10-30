@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui,viewport-fit=cover">
+    <meta name=apple-mobile-web-app-capable content=yes>
+    <meta name=apple-mobile-web-app-status-bar-style content=black>
+    <title>SpeedTest Settings</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdpi.css">
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/sdtools.common.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/barraider/streamdeck-easypi@latest/src/pickers.js"></script>
+</head>
+<body>
+    <div class="sdpi-wrapper">
+        <details class="message">
+            <summary>* For feedback/suggestions contact me at <span class="linkspan" onclick="openWebsite()">https://BarRaider.com</span></summary>
+        </details>
+        <div class="sdpi-item" id="dvSteamApp">
+            <div class="sdpi-item-label">Server</div>
+            <select class="sdpi-item-value select sdProperty sdList" id="servers" oninput="setSettings()" sdListTextProperty="name" sdListValueProperty="id" sdValueField="serverId"></select>
+        </div>
+        <details class="message">
+            <summary>* Pro-Tip: Long pressing the key after a speed test will open the results in browser</summary>
+        </details>
+        <div class="sdpi-item" id="dvAutorun">
+            <div class="sdpi-item-label">Autorun every (minutes)</div>
+            <input class="sdpi-item-value sdProperty" id="autorunTime" inputmode="numeric" pattern="[0-9]*" type="number" placeholder="0" oninput="setSettings()">
+        </div>
+        <div type="checkbox" class="sdpi-item" id="dvTimeAMPM">
+            <div class="sdpi-item-label">Time</div>
+            <div class="sdpi-item-value">
+                <input id="timeAMPM" type="checkbox" value="" class="sdProperty sdCheckbox" oninput="setSettings()">
+                <label for="timeAMPM" class="sdpi-item-label"><span></span>Show time as AM/PM</label>
+            </div>
+        </div>
+        <div class="sdpi-item" id="dvSaveToFile">
+            <div class="sdpi-item-label">Save to file</div>
+            <input class="sdpi-item-value sdProperty hasFileButton" disabled value="" id="resultsFileName">
+            <button class="max100 leftMargin0" onclick="openSaveFilePicker('Test Results File Name','Text files (*.txt)|*.txt|All files (*.*)|*.*','resultsFileName')">...</button>
+        </div>
+        <hr />
+        <details class="message info iconLeft">
+            <summary class="summaryIconPadding">Legend:</summary>
+        </details>
+        <details class="message">
+            <summary>"G" - Gbps (Gigabit/sec)</summary>
+        </details>
+        <details class="message">
+            <summary>"M" - Mbps (Megabit/sec)</summary>
+        </details>
+        <details class="message">
+            <summary>"K" - Kbps (Kilobit/sec)</summary>
+        </details>
+    </div>
+</body>
+</html>

@@ -1,0 +1,83 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Stock Ticker",
+      "States": [
+        {
+          "Image": "Images/spot",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "View live(!) quotes of your favorite stocks, directly on the Stream Deck",
+      "UUID": "com.barraider.stockticker",
+      "PropertyInspectorPath": "PropertyInspector/Stockticker/Stockticker.html"
+    },
+    {
+      "Icon": "Images/curricon",
+      "Name": "Currency Converter",
+      "States": [
+        {
+          "Image": "Images/curr",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "View live currency exchange between two currencies",
+      "UUID": "com.barraider.currencyexchange",
+      "PropertyInspectorPath": "PropertyInspector/Stockticker/Currency.html"
+    },
+    {
+      "Icon": "Images/cryptoicon",
+      "Name": "CryptoCurrency Ticker",
+      "States": [
+        {
+          "Image": "Images/crypto",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "View live cryptocurrencies",
+      "UUID": "com.barraider.cryptoticker",
+      "PropertyInspectorPath": "PropertyInspector/Stockticker/Crypto.html"
+    },
+    {
+      "Icon": "Images/tarkovIcon",
+      "Name": "Tarkov Ticker",
+      "States": [
+        {
+          "Image": "Images/tarkovAction",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "See price of 0.2 BTC in RUB",
+      "UUID": "com.barraider.tarkovticker",
+      "PropertyInspectorPath": "PropertyInspector/Stockticker/Tarkov.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Stock, Currency and Crypto all in one plugin! View live data on the Stream Deck.\nNEW: Save space by having multiple stocks rotated on one key.",
+  "Name": "Stock & Currency",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://BarRaider.com/",
+  "Version": "1.8",
+  "CodePathWin": "com.barraider.stockticker.exe",
+  "Category": "Stock Ticker [BarRaider]",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}

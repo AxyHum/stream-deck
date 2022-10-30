@@ -1,0 +1,1047 @@
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|Destructor called
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|Destructor called
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|Destructor called
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|Destructor called
+2022-10-30 00:10:13.8952|INFO|com.barraider.wintools|47|Destructor called
+2022-10-30 00:10:29.8525|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:10:29.8663|INFO|com.barraider.wintools|49|ModifyAppVolume modifying volume from 0,7 by 0,15 for Process Spotify PID 15984
+2022-10-30 00:10:30.1952|INFO|com.barraider.wintools|35|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11912
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21096
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11912
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21096
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|ModifyAppMute modifying mute status to True for Process chrome PID 25684
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 1780
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21044
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27448
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21608
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22508
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 30788
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 31988
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11232
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24064
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 19972
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 20836
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18980
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24492
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22624
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16188
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21700
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21688
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16168
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21648
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27160
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18884
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21640
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22556
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 10600
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27064
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 2236
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 25128
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18768
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18624
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 19532
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24116
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 23160
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 20392
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18548
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 17556
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 39556
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16564
+2022-10-30 00:10:30.2082|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21156
+2022-10-30 00:10:35.1212|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:35.6745|INFO|com.barraider.wintools|45|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:36.2292|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:36.7217|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:37.2011|INFO|com.barraider.wintools|36|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:40.2859|INFO|com.barraider.wintools|36|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:40.2859|INFO|com.barraider.wintools|45|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:40.3439|INFO|com.barraider.wintools|46|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:40.3569|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:41.5994|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:10:41.5994|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11912
+2022-10-30 00:10:41.5994|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21096
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11912
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21096
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|ModifyAppMute modifying mute status to False for Process chrome PID 25684
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 1780
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21044
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27448
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21608
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22508
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 30788
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 31988
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 11232
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24064
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 19972
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 20836
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18980
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24492
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22624
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16188
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21700
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21688
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16168
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21648
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27160
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18884
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21640
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 22556
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 10600
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 27064
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 2236
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 25128
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18768
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18624
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 19532
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 24116
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 23160
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 20392
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 18548
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 17556
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 39556
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 16564
+2022-10-30 00:10:41.6209|INFO|com.barraider.wintools|49|Could not find volume object for chrome PID 21156
+2022-10-30 00:10:42.3812|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:45.8808|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:45.8808|INFO|com.barraider.wintools|32|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:45.9373|INFO|com.barraider.wintools|42|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|Destructor called
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|Destructor called
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|Destructor called
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|Destructor called
+2022-10-30 00:10:45.9503|INFO|com.barraider.wintools|32|Destructor called
+2022-10-30 00:10:48.9853|INFO|com.barraider.wintools|39|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:49.4810|INFO|com.barraider.wintools|41|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:49.4810|INFO|com.barraider.wintools|39|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|49|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|Destructor called
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|Destructor called
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|Destructor called
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|Destructor called
+2022-10-30 00:10:49.5365|INFO|com.barraider.wintools|39|Destructor called
+2022-10-30 00:10:50.4226|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:50.8396|INFO|com.barraider.wintools|38|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:50.8396|INFO|com.barraider.wintools|41|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|30|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|Destructor called
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|Destructor called
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|Destructor called
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|Destructor called
+2022-10-30 00:10:50.8961|INFO|com.barraider.wintools|41|Destructor called
+2022-10-30 00:10:52.5995|INFO|com.barraider.wintools|27|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:53.0295|INFO|com.barraider.wintools|27|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:53.0295|INFO|com.barraider.wintools|36|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|31|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|Destructor called
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|Destructor called
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|Destructor called
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|Destructor called
+2022-10-30 00:10:53.0870|INFO|com.barraider.wintools|36|Destructor called
+2022-10-30 00:10:53.7867|INFO|com.barraider.wintools|26|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:54.1572|INFO|com.barraider.wintools|40|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:54.1572|INFO|com.barraider.wintools|26|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|46|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|Destructor called
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|Destructor called
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|Destructor called
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|Destructor called
+2022-10-30 00:10:54.2137|INFO|com.barraider.wintools|26|Destructor called
+2022-10-30 00:10:54.9153|INFO|com.barraider.wintools|45|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:10:55.3465|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:10:55.3465|INFO|com.barraider.wintools|45|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|49|IsUIReady was called but Subscribers: /15
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:10:55.4040|INFO|com.barraider.wintools|45|Destructor called
+2022-10-30 00:42:14.4537|INFO|com.barraider.wintools|43|Disconnect event received
+2022-10-30 00:42:14.4537|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 00:42:25.2283|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 00:42:25.2668|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 00:42:25.5628|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 00:42:25.5628|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 00:42:27.6440|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 00:42:27.6440|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 00:42:54.6107|DEBUG|com.barraider.wintools|7|Logger Initialized
+2022-10-30 00:42:54.6107|INFO|com.barraider.wintools|7|GetWindowsReleaseVersion ReleaseId: 2009
+2022-10-30 00:42:55.1116|INFO|com.barraider.wintools|7|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:42:55.1211|INFO|com.barraider.wintools|13|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|Destructor called
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|Destructor called
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|Destructor called
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|Destructor called
+2022-10-30 00:42:55.1526|INFO|com.barraider.wintools|7|Destructor called
+2022-10-30 00:42:57.7186|INFO|com.barraider.wintools|10|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:42:57.7351|DEBUG|com.barraider.wintools|3|Logger Initialized
+2022-10-30 00:42:57.7351|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:42:57.7351|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:42:57.7351|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:42:57.7351|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:42:57.7526|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:42:57.7526|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:42:57.7526|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:42:57.7526|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:42:57.7526|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to True for Process Discord PID 16052
+2022-10-30 00:42:57.7541|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to True for Process Discord PID 16876
+2022-10-30 00:42:58.5213|INFO|com.barraider.wintools|16|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:42:58.5213|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 19260
+2022-10-30 00:42:58.5213|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 12728
+2022-10-30 00:42:58.5213|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 19600
+2022-10-30 00:42:58.5213|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 18268
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 19260
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 12728
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 19600
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|Could not find volume object for Discord PID 18268
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:42:58.5438|INFO|com.barraider.wintools|24|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:43:01.5801|INFO|com.barraider.wintools|26|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:43:02.8454|INFO|com.barraider.wintools|17|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:43:03.4953|INFO|com.barraider.wintools|28|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:43:04.1443|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:43:04.4233|INFO|com.barraider.wintools|28|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:43:04.7478|INFO|com.barraider.wintools|20|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:43:05.0739|INFO|com.barraider.wintools|29|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:43:09.4919|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:43:10.3241|INFO|com.barraider.wintools|22|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:43:11.1731|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:44:06.1680|INFO|com.barraider.wintools|14|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:44:11.4232|INFO|com.barraider.wintools|14|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:44:12.4424|INFO|com.barraider.wintools|26|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:44:15.3823|INFO|com.barraider.wintools|26|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-30 00:44:16.3486|INFO|com.barraider.wintools|26|Key Pressed WinTools.Actions.VirtualDesktopSwitchAction
+2022-10-30 00:44:18.8224|INFO|com.barraider.wintools|26|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:44:18.8224|INFO|com.barraider.wintools|31|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|Destructor called
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|Destructor called
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|Destructor called
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|Destructor called
+2022-10-30 00:44:18.8924|INFO|com.barraider.wintools|31|Destructor called
+2022-10-30 00:44:20.3232|INFO|com.barraider.wintools|19|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:44:20.3372|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 0,9140629 by 0,15 for Process chrome PID 25684
+2022-10-30 00:44:21.4713|INFO|com.barraider.wintools|11|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:44:21.4823|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11912
+2022-10-30 00:44:21.4823|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21096
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11912
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21096
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process chrome PID 25684
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 1780
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21044
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27448
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21608
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22508
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 30788
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 31988
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 41072
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11232
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24064
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 5272
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19972
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19944
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 20836
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18980
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24492
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22624
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16188
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21700
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21688
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16168
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 39124
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21648
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27160
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18884
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21640
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22556
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 10600
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 39996
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27064
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 2236
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27936
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 25128
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18768
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18624
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19532
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24116
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 23160
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 20392
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18548
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 17556
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 28520
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16564
+2022-10-30 00:44:21.4938|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21156
+2022-10-30 00:44:29.3879|INFO|com.barraider.wintools|19|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:44:29.3994|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11912
+2022-10-30 00:44:29.3994|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21096
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11912
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21096
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process chrome PID 25684
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 1780
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21044
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27448
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21608
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22508
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 30788
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 31988
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 41072
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 11232
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24064
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 5272
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19972
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19944
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 20836
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18980
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24492
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22624
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16188
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21700
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21688
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16168
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 39124
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21648
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27160
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18884
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21640
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 22556
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 10600
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 39996
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27064
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 2236
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 27936
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 25128
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18768
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18624
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 19532
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 24116
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 23160
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 20392
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 18548
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 17556
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 28520
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 16564
+2022-10-30 00:44:29.4099|INFO|com.barraider.wintools|12|Could not find volume object for chrome PID 21156
+2022-10-30 00:44:31.4502|INFO|com.barraider.wintools|28|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:44:32.5415|INFO|com.barraider.wintools|21|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 10248
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 10248
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|ModifyAppMute modifying mute status to True for Process Spotify PID 15984
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 14996
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 16356
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 14888
+2022-10-30 00:44:32.5520|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 16712
+2022-10-30 00:44:33.0355|INFO|com.barraider.wintools|21|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:44:33.0355|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 10248
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 10248
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|ModifyAppMute modifying mute status to False for Process Spotify PID 15984
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 14996
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 16356
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 14888
+2022-10-30 00:44:33.0555|INFO|com.barraider.wintools|23|Could not find volume object for Spotify PID 16712
+2022-10-30 00:44:33.9618|INFO|com.barraider.wintools|28|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:44:33.9723|INFO|com.barraider.wintools|23|ModifyAppVolume modifying volume from 0,85 by 0,15 for Process Spotify PID 15984
+2022-10-30 00:44:34.2326|INFO|com.barraider.wintools|28|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:44:34.2441|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-30 00:44:34.3868|INFO|com.barraider.wintools|7|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:44:34.3973|INFO|com.barraider.wintools|24|ModifyAppVolume modifying volume from 1 by 0,15 for Process Spotify PID 15984
+2022-10-30 00:44:35.1202|INFO|com.barraider.wintools|21|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:36.2412|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:38.5281|INFO|com.barraider.wintools|28|Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:40.8762|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:44:57.0494|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:01.8968|INFO|com.barraider.wintools|21|Destructor called
+2022-10-30 00:45:06.8534|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:45:06.8534|INFO|com.barraider.wintools|34|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|Destructor called
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|Destructor called
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|Destructor called
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|Destructor called
+2022-10-30 00:45:06.9124|INFO|com.barraider.wintools|34|Destructor called
+2022-10-30 00:45:09.4025|INFO|com.barraider.wintools|21|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:45:10.1880|INFO|com.barraider.wintools|35|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|Destructor called
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|Destructor called
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|Destructor called
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|Destructor called
+2022-10-30 00:45:11.8640|INFO|com.barraider.wintools|38|Destructor called
+2022-10-30 00:45:16.0132|INFO|com.barraider.wintools|38|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:18.1229|INFO|com.barraider.wintools|38|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:45:18.1229|INFO|com.barraider.wintools|35|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:45:18.1819|INFO|com.barraider.wintools|35|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:19.6227|INFO|com.barraider.wintools|35|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:45:20.2400|INFO|com.barraider.wintools|42|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:45:20.2400|INFO|com.barraider.wintools|35|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:45:20.3065|INFO|com.barraider.wintools|35|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:21.3702|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:45:22.0339|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:45:23.0206|INFO|com.barraider.wintools|38|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:45:23.0206|INFO|com.barraider.wintools|37|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:45:23.0871|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:23.8402|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:45:25.1210|INFO|com.barraider.wintools|43|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:45:26.6654|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:45:26.6654|INFO|com.barraider.wintools|43|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:45:26.7234|INFO|com.barraider.wintools|43|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:45:27.3606|INFO|com.barraider.wintools|39|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:45:27.9638|INFO|com.barraider.wintools|40|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:45:34.0336|INFO|com.barraider.wintools|40|NotifyKeyPressed: Row: 1 Column: 4
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 6128
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 13428
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 8792
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 39072
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 41360
+2022-10-30 00:45:34.0441|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 14200
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 6128
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 13428
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 8792
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 39072
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 41360
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 14200
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process Ferdi PID 16740
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 10212
+2022-10-30 00:45:34.0541|INFO|com.barraider.wintools|12|Could not find volume object for Ferdi PID 34396
+2022-10-30 00:45:35.1320|INFO|com.barraider.wintools|46|NotifyKeyPressed: Row: 1 Column: 1
+2022-10-30 00:45:35.1320|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 11912
+2022-10-30 00:45:35.1320|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21096
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 11912
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21096
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|ModifyAppMute modifying mute status to True for Process chrome PID 25684
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 1780
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21044
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 27448
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21608
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 22508
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 30788
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 31988
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 11232
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 24064
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 5272
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 19972
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 19944
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 20836
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 18980
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 24492
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 22624
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 16188
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21700
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21688
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 16168
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 39124
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21648
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 27160
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 18884
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21640
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 22556
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 10600
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 39996
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 27064
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 2236
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 27936
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 25128
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 18768
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 18624
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 19532
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 24116
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 23160
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 20392
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 18548
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 17556
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 28520
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 16564
+2022-10-30 00:45:35.1525|INFO|com.barraider.wintools|13|Could not find volume object for chrome PID 21156
+2022-10-30 00:45:35.7339|INFO|com.barraider.wintools|35|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:35.7459|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:35.7459|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:35.7459|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:35.7459|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to True for Process Discord PID 16052
+2022-10-30 00:45:35.7564|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to True for Process Discord PID 16876
+2022-10-30 00:45:38.8694|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:45:38.8799|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:45:42.7927|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|ModifyAppMute modifying mute status to True for Process Discord PID 16052
+2022-10-30 00:45:42.8032|INFO|com.barraider.wintools|13|ModifyAppMute modifying mute status to True for Process Discord PID 16876
+2022-10-30 00:45:45.6184|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:45:45.6289|INFO|com.barraider.wintools|23|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:45:48.8136|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:48.8246|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:48.8246|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:48.8246|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:48.8246|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:45:48.8366|INFO|com.barraider.wintools|5|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:45:49.4307|INFO|com.barraider.wintools|45|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process Discord PID 16052
+2022-10-30 00:45:49.4412|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to True for Process Discord PID 16876
+2022-10-30 00:45:50.1571|INFO|com.barraider.wintools|37|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:45:50.1686|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:50.1686|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:50.1686|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:50.1686|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:45:50.1791|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:46:02.3335|INFO|com.barraider.wintools|41|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:46:02.3335|INFO|com.barraider.wintools|6|ModifyAppVolume modifying volume from 1 by 0,15 for Process chrome PID 25684
+2022-10-30 00:46:02.8660|INFO|com.barraider.wintools|21|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 00:46:02.8660|INFO|com.barraider.wintools|5|ModifyAppVolume modifying volume from 1 by 0,15 for Process chrome PID 25684
+2022-10-30 00:53:28.0955|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:53:28.8222|INFO|com.barraider.wintools|44|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:53:31.4839|INFO|com.barraider.wintools|42|NotifyKeyPressed: Row: 1 Column: 4
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 6128
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 13428
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 8792
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 39072
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 41360
+2022-10-30 00:53:31.4939|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 14200
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 6128
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 13428
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 8792
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 39072
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 41360
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 14200
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|ModifyAppMute modifying mute status to False for Process Ferdi PID 16740
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 10212
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 34396
+2022-10-30 00:53:31.5049|INFO|com.barraider.wintools|3|Could not find volume object for Ferdi PID 37720
+2022-10-30 00:53:33.3711|INFO|com.barraider.wintools|44|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:53:36.5728|INFO|com.barraider.wintools|45|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:53:36.5728|INFO|com.barraider.wintools|44|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:53:36.6383|INFO|com.barraider.wintools|44|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:55:03.5782|INFO|com.barraider.wintools|38|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:55:03.5882|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 19260
+2022-10-30 00:55:03.5882|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 12728
+2022-10-30 00:55:03.5882|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 19600
+2022-10-30 00:55:03.5882|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 18268
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 19260
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 12728
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 19600
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|Could not find volume object for Discord PID 18268
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|ModifyAppMute modifying mute status to True for Process Discord PID 16052
+2022-10-30 00:55:03.5982|INFO|com.barraider.wintools|6|ModifyAppMute modifying mute status to True for Process Discord PID 16876
+2022-10-30 00:55:04.4797|INFO|com.barraider.wintools|43|NotifyKeyPressed: Row: 1 Column: 2
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19260
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 12728
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 19600
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|Could not find volume object for Discord PID 18268
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Discord PID 16052
+2022-10-30 00:55:04.4907|INFO|com.barraider.wintools|12|ModifyAppMute modifying mute status to False for Process Discord PID 16876
+2022-10-30 00:56:09.5404|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:56:10.0824|INFO|com.barraider.wintools|48|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:56:55.0868|INFO|com.barraider.wintools|49|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 00:56:55.0868|INFO|com.barraider.wintools|33|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 00:56:55.1488|INFO|com.barraider.wintools|33|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 00:57:52.4624|INFO|com.barraider.wintools|59|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:57:54.0524|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:57:54.5237|INFO|com.barraider.wintools|61|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:57:55.0584|INFO|com.barraider.wintools|60|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:57:55.5221|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:57:56.1701|INFO|com.barraider.wintools|55|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:57:56.8202|INFO|com.barraider.wintools|56|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:03.2763|INFO|com.barraider.wintools|54|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:12.0653|INFO|com.barraider.wintools|59|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:12.7899|INFO|com.barraider.wintools|43|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:13.4391|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:14.2871|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:14.8923|INFO|com.barraider.wintools|58|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:15.4942|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:16.0801|INFO|com.barraider.wintools|62|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:16.7462|INFO|com.barraider.wintools|40|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:17.2544|INFO|com.barraider.wintools|60|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:17.9813|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:18.5625|INFO|com.barraider.wintools|58|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:21.3921|INFO|com.barraider.wintools|61|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:21.8714|INFO|com.barraider.wintools|56|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:22.3968|INFO|com.barraider.wintools|30|NotifyKeyPressed: Row: 2 Column: 0
+2022-10-30 00:58:22.7993|INFO|com.barraider.wintools|59|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 00:58:57.8606|INFO|com.barraider.wintools|58|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 00:58:58.4693|INFO|com.barraider.wintools|58|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:00:00.0638|INFO|com.barraider.wintools|57|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:00:02.2619|INFO|com.barraider.wintools|57|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 01:00:02.2619|INFO|com.barraider.wintools|45|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 01:00:02.3244|INFO|com.barraider.wintools|45|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:00:03.1419|INFO|com.barraider.wintools|22|NotifyKeyPressed: Row: 1 Column: 0
+2022-10-30 01:00:03.5594|INFO|com.barraider.wintools|57|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 01:00:04.1158|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:00:06.2590|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:00:13.7084|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:02:27.5812|INFO|com.barraider.wintools|65|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:03:23.7691|INFO|com.barraider.wintools|30|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:03:54.1564|INFO|com.barraider.wintools|30|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:04:05.5494|INFO|com.barraider.wintools|30|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:04:11.0544|INFO|com.barraider.wintools|30|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:09:22.5372|INFO|com.barraider.wintools|34|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:09:24.1199|INFO|com.barraider.wintools|34|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:11:44.1164|INFO|com.barraider.wintools|16|Disconnect event received
+2022-10-30 01:11:44.1164|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:11:45.4584|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:11:45.4949|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:11:45.7819|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:11:45.7819|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:11:47.8480|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:11:47.8480|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:12:40.4070|INFO|com.barraider.wintools|8|Disconnect event received
+2022-10-30 01:12:40.4070|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:12:41.7785|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:12:41.8135|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:12:42.0965|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:12:42.0965|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:12:44.1631|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:12:44.1631|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:12:55.3938|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:17:39.9712|INFO|com.barraider.wintools|26|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:17:39.9837|INFO|com.barraider.wintools|25|Disconnect event received
+2022-10-30 01:17:39.9837|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:17:56.7891|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:17:56.8236|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:17:57.1021|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:17:57.1021|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:17:59.1696|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:17:59.1696|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:18:04.8685|INFO|com.barraider.wintools|3|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:18:14.3846|INFO|com.barraider.wintools|3|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:19:02.6384|INFO|com.barraider.wintools|3|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:22:53.1828|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:22:53.2409|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:22:53.6641|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:22:53.6641|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:22:55.7401|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:22:55.7401|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:30:30.1420|INFO|com.barraider.wintools|30|Disconnect event received
+2022-10-30 01:30:30.1420|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:30:33.1955|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:30:33.2390|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:30:33.5410|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:30:33.5410|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:30:35.6212|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:30:35.6212|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:31:41.4620|INFO|com.barraider.wintools|13|Disconnect event received
+2022-10-30 01:31:41.4620|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:31:42.7126|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:31:42.7481|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:31:43.0371|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:31:43.0371|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:31:45.1077|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:31:45.1077|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:37:35.0810|INFO|com.barraider.wintools|22|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 01:44:49.6576|INFO|com.barraider.wintools|43|Disconnect event received
+2022-10-30 01:44:49.6576|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:44:51.0046|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:44:51.0421|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:44:51.3516|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:44:51.3516|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:44:53.4311|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:44:53.4311|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:49:14.5706|INFO|com.barraider.wintools|17|Disconnect event received
+2022-10-30 01:49:14.5706|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:49:15.7780|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:49:15.8095|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:49:16.1075|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:49:16.1075|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:49:18.1784|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:49:18.1784|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 01:51:04.3548|INFO|com.barraider.wintools|14|Disconnect event received
+2022-10-30 01:51:04.3548|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 01:51:05.5741|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 01:51:05.6046|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 01:51:05.9086|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 01:51:05.9086|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 01:51:07.9763|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 01:51:07.9763|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 11:28:19.3555|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 11:28:24.5921|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 11:28:24.6061|INFO|com.barraider.wintools|43|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 11:28:24.6266|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 11:28:25.5912|INFO|com.barraider.wintools|47|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 11:28:26.0235|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 11:28:30.4404|INFO|com.barraider.wintools|47|WinTools.Actions.AppAudioMixerAction Key Pressed
+2022-10-30 11:28:30.4404|INFO|com.barraider.wintools|37|RegisterUIHandler was called starting WinTools.Backend.AudioMixerManager
+2022-10-30 11:28:30.4789|INFO|com.barraider.wintools|42|IsUIReady was called but Subscribers: /15
+2022-10-30 11:28:30.4989|INFO|com.barraider.wintools|37|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 11:28:31.1418|INFO|com.barraider.wintools|33|NotifyKeyPressed: Row: 0 Column: 1
+2022-10-30 11:28:31.1763|DEBUG|com.barraider.wintools|42|Logger Initialized
+2022-10-30 11:28:31.1763|INFO|com.barraider.wintools|42|ModifyAppVolume modifying volume from 1 by 0,15 for Process chrome PID 19288
+2022-10-30 11:28:31.4521|INFO|com.barraider.wintools|32|NotifyKeyPressed: Row: 0 Column: 0
+2022-10-30 11:28:32.6869|INFO|com.barraider.wintools|32|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:09:42.3837|INFO|com.barraider.wintools|141|Disconnect event received
+2022-10-30 12:09:42.3837|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:09:43.6262|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:09:43.6642|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:09:43.9817|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:09:43.9817|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:09:46.0632|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:09:46.0632|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:11:51.9434|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:11:51.9804|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:11:52.3492|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:11:52.3492|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:11:54.4202|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:11:54.4202|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:20:11.3949|INFO|com.barraider.wintools|34|Disconnect event received
+2022-10-30 12:20:11.3949|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:20:14.2098|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:20:14.2498|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:20:14.5398|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:20:14.5398|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:20:16.6158|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:20:16.6158|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:21:00.4047|INFO|com.barraider.wintools|10|Disconnect event received
+2022-10-30 12:21:00.4047|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:10.7586|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:21:10.7956|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:21:11.0691|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:21:11.0691|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:21:13.1436|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:21:13.1436|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:21:34.5388|INFO|com.barraider.wintools|8|Disconnect event received
+2022-10-30 12:21:34.5388|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:53.9434|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:21:53.9774|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:21:54.2859|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:21:54.2859|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:21:56.3632|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:21:56.3632|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:24:28.4859|INFO|com.barraider.wintools|15|Disconnect event received
+2022-10-30 12:24:28.4859|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:25:15.2913|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:25:15.3243|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:25:15.6073|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:25:15.6073|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:25:17.6840|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:25:17.6840|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:26:40.2270|INFO|com.barraider.wintools|16|Disconnect event received
+2022-10-30 12:26:40.2270|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:26:51.3600|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:26:51.3935|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:26:51.6795|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:26:51.6795|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:26:53.7658|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:26:53.7658|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:28:47.4940|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:28:47.5365|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:28:47.8661|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:28:47.8661|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:28:49.9753|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:28:49.9763|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:35:11.1095|INFO|com.barraider.wintools|22|Disconnect event received
+2022-10-30 12:35:11.1095|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:12.4891|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:35:12.5281|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:35:12.8361|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:35:12.8361|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:35:14.9137|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:35:14.9137|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:35:39.1484|INFO|com.barraider.wintools|7|Disconnect event received
+2022-10-30 12:35:39.1484|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:40.4305|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:35:40.4675|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:35:40.7820|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:35:40.7820|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:35:42.8537|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:35:42.8537|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:35:52.0040|INFO|com.barraider.wintools|7|Disconnect event received
+2022-10-30 12:35:52.0040|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:53.2217|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:35:53.2582|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:35:53.5722|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:35:53.5722|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:35:55.6507|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:35:55.6507|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:40:48.6716|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:40:55.3648|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:41:16.2355|INFO|com.barraider.wintools|21|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:41:19.7918|INFO|com.barraider.wintools|21|Disconnect event received
+2022-10-30 12:41:19.7918|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:41:21.0422|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:41:21.0782|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:41:21.3877|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:41:21.3877|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:41:23.4673|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:41:23.4673|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:41:53.8069|INFO|com.barraider.wintools|11|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:41:53.8239|INFO|com.barraider.wintools|10|Disconnect event received
+2022-10-30 12:41:53.8239|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 12:42:41.1984|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 12:42:41.2359|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 12:42:41.5539|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 12:42:41.5539|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 12:42:43.6273|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 12:42:43.6273|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 12:42:50.4938|INFO|com.barraider.wintools|8|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 12:47:21.0352|INFO|com.barraider.wintools|19|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 14:37:08.9009|INFO|com.barraider.wintools|53|Disconnect event received
+2022-10-30 14:37:08.9009|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:37:10.3479|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:37:10.3849|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:37:10.6879|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:37:10.6879|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:37:12.7667|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:37:12.7667|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:40:06.5261|INFO|com.barraider.wintools|17|Disconnect event received
+2022-10-30 14:40:06.5261|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:40:35.7020|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:40:35.7395|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:40:36.0405|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:40:36.0405|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:40:38.1159|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:40:38.1164|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:41:40.1033|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 14:41:40.1033|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:41:41.3886|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:41:41.4246|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:41:41.7561|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:41:41.7561|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:41:43.8427|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:41:43.8427|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:42:58.0416|INFO|com.barraider.wintools|13|Disconnect event received
+2022-10-30 14:42:58.0416|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:42:59.3712|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:42:59.4092|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:42:59.7332|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:42:59.7332|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:43:01.8143|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:43:01.8143|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:43:27.6529|INFO|com.barraider.wintools|3|Disconnect event received
+2022-10-30 14:43:27.6529|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:43:29.0261|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:43:29.0641|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:43:29.3876|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:43:29.3876|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:43:31.4629|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:43:31.4629|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:44:36.0037|INFO|com.barraider.wintools|12|Disconnect event received
+2022-10-30 14:44:36.0037|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:44:37.4027|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:44:37.4412|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:44:37.8022|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:44:37.8022|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:44:39.8942|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:44:39.8942|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:48:05.8005|INFO|com.barraider.wintools|19|Disconnect event received
+2022-10-30 14:48:05.8005|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:07.1460|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:48:07.1825|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:48:07.5260|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:48:07.5260|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:48:09.6346|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:48:09.6346|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:48:53.9937|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 14:48:53.9937|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:55.3077|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:48:55.3477|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:48:55.6852|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:48:55.6852|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:48:57.7691|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:48:57.7691|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:49:48.0644|INFO|com.barraider.wintools|3|Disconnect event received
+2022-10-30 14:49:48.0644|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:49:49.4579|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:49:49.4934|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:49:49.7969|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:49:49.7969|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:49:51.8678|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:49:51.8678|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:50:13.7828|INFO|com.barraider.wintools|8|Disconnect event received
+2022-10-30 14:50:13.7828|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:50:15.2514|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:50:15.2884|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:50:15.6034|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:50:15.6034|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:50:17.6936|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:50:17.6946|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:51:00.9898|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 14:51:00.9898|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:02.3292|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:51:02.3652|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:51:02.6962|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:51:02.6962|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:51:04.7821|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:51:04.7821|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:51:22.1279|INFO|com.barraider.wintools|8|Disconnect event received
+2022-10-30 14:51:22.1279|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:23.4390|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:51:23.4765|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:51:23.7905|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:51:23.7905|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:51:25.8710|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:51:25.8710|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:52:45.3580|INFO|com.barraider.wintools|12|Disconnect event received
+2022-10-30 14:52:45.3580|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:52:46.6517|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:52:46.6852|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:52:47.0217|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:52:47.0217|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:52:49.1005|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:52:49.1010|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 14:53:25.8966|INFO|com.barraider.wintools|10|Disconnect event received
+2022-10-30 14:53:25.8966|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 14:53:27.2701|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 14:53:27.3101|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 14:53:27.6771|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 14:53:27.6771|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 14:53:29.7624|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 14:53:29.7624|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:22:49.9949|INFO|com.barraider.wintools|91|Disconnect event received
+2022-10-30 15:22:49.9949|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:36:49.8929|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:36:49.9299|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:36:50.2299|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:36:50.2299|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:36:52.3168|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:36:52.3168|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:37:13.0258|INFO|com.barraider.wintools|7|Disconnect event received
+2022-10-30 15:37:13.0258|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:37:14.2797|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:37:14.3177|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:37:14.6122|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:37:14.6122|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:37:16.7000|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:37:16.7000|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:38:29.3672|INFO|com.barraider.wintools|12|Disconnect event received
+2022-10-30 15:38:29.3672|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:30.5801|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:38:30.6126|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:38:30.9161|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:38:30.9161|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:38:33.0011|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:38:33.0011|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:38:55.9949|INFO|com.barraider.wintools|7|Disconnect event received
+2022-10-30 15:38:55.9949|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:57.2768|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:38:57.3098|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:38:57.6513|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:38:57.6513|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:38:59.7260|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:38:59.7260|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:39:20.2969|INFO|com.barraider.wintools|8|Disconnect event received
+2022-10-30 15:39:20.2969|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:39:21.5294|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:39:21.5624|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:39:21.8879|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:39:21.8879|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:39:23.9655|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:39:23.9655|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:40:26.5861|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 15:40:26.5861|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:40:27.8600|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:40:27.8950|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:40:28.2015|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:40:28.2015|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:40:30.2917|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:40:30.2917|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:41:10.2939|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 15:41:10.2939|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:41:11.6952|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:41:11.7357|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:41:12.0392|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:41:12.0392|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:41:14.1216|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:41:14.1216|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:42:04.0324|INFO|com.barraider.wintools|11|Disconnect event received
+2022-10-30 15:42:04.0324|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:05.4264|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:42:05.4634|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:42:05.7714|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:42:05.7714|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:42:07.8636|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:42:07.8636|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:42:28.6714|INFO|com.barraider.wintools|7|Disconnect event received
+2022-10-30 15:42:28.6714|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:29.8811|DEBUG|com.barraider.wintools|1|Logger Initialized
+2022-10-30 15:42:29.9186|INFO|com.barraider.wintools|1|Plugin [com.barraider.wintools] Loading - 31 Actions Found
+2022-10-30 15:42:30.2066|INFO|com.barraider.wintools|1|Plugin version: 1.8
+2022-10-30 15:42:30.2066|INFO|com.barraider.wintools|1|Connecting to Stream Deck
+2022-10-30 15:42:32.2826|INFO|com.barraider.wintools|1|Connected to Stream Deck
+2022-10-30 15:42:32.2826|INFO|com.barraider.wintools|1|GlobalSettingsManager initialized
+2022-10-30 15:45:15.6621|INFO|com.barraider.wintools|15|WinTools.Actions.AppAudioMixerAction Destructor called
+2022-10-30 15:45:17.1475|INFO|com.barraider.wintools|15|Disconnect event received
+2022-10-30 15:45:17.1480|INFO|com.barraider.wintools|1|Plugin Disconnected - Exiting

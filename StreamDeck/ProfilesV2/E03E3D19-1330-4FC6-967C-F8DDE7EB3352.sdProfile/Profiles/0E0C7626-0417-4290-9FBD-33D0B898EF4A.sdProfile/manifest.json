@@ -1,0 +1,176 @@
+{
+    "Actions": {
+        "0,0": {
+            "Name": "Open Folder",
+            "Settings": null,
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "state0.png",
+                    "Title": "",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.elgato.streamdeck.profile.backtoparent"
+        },
+        "0,1": {
+            "Name": "Symbol",
+            "Settings": {
+                "symbol": "EURUSD"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "",
+                    "Title": "",
+                    "TitleAlignment": "",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.axytradingtools.symbol"
+        },
+        "1,1": {
+            "Name": "Symbol",
+            "Settings": {
+                "symbol": "GBPUSD"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "",
+                    "Title": "",
+                    "TitleAlignment": "",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.axytradingtools.symbol"
+        },
+        "2,1": {
+            "Name": "Symbol",
+            "Settings": {
+                "symbol": "AUDUSD"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "",
+                    "Title": "",
+                    "TitleAlignment": "",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.axytradingtools.symbol"
+        },
+        "3,1": {
+            "Name": "Symbol",
+            "Settings": {
+                "symbol": "USDCAD"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "",
+                    "Title": "",
+                    "TitleAlignment": "",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.axytradingtools.symbol"
+        },
+        "4,0": {
+            "Name": "Changer de profil",
+            "Settings": {
+                "DeviceUUID": "",
+                "PageIndex": 0,
+                "ProfileUUID": "E03E3D19-1330-4FC6-967C-F8DDE7EB3352"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "Arial",
+                    "FSize": "15",
+                    "FStyle": "Normal",
+                    "FUnderline": "off",
+                    "Image": "state0.png",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.elgato.streamdeck.profile.rotate"
+        },
+        "4,1": {
+            "Name": "Symbol",
+            "Settings": {
+                "symbol": "EURAUD"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "",
+                    "FSize": "",
+                    "FStyle": "",
+                    "FUnderline": "",
+                    "Image": "",
+                    "Title": "",
+                    "TitleAlignment": "",
+                    "TitleColor": "",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.axytradingtools.symbol"
+        },
+        "4,2": {
+            "Name": "Open Folder",
+            "Settings": {
+                "ProfileUUID": "73F8AAC1-A07B-44AE-BB90-C61D40617FD0"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FFamily": "Arial",
+                    "FSize": "15",
+                    "FStyle": "Normal",
+                    "FUnderline": "off",
+                    "Image": "state0.png",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff",
+                    "TitleShow": ""
+                }
+            ],
+            "UUID": "com.elgato.streamdeck.profile.backtoparent"
+        }
+    },
+    "DeviceModel": "20GAA9902",
+    "DeviceUUID": "@(1)[4057/109/AL51K2C54549]",
+    "Name": "",
+    "Version": "1.0"
+}

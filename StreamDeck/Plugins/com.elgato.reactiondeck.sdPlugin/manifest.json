@@ -1,0 +1,88 @@
+{
+    "Actions": [
+        {
+            "Name": "Tile",
+            "States": [
+                {
+                    "Image": "images/tile",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "VisibleInActionsList": false,
+            "UUID": "com.elgato.reactiondeck.tile"
+        },
+        {
+            "Name": "Reset",
+            "States": [
+                {
+                    "Image": "images/startover",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "VisibleInActionsList": false,
+            "UUID": "com.elgato.reactiondeck.reset"
+        },
+        {
+            "Name": "None",
+            "States": [
+                {
+                    "Image": "images/none",
+                    "TitleAlignment": "middle",
+                    "FontSize": "16"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "VisibleInActionsList": false,
+            "UUID": "com.elgato.reactiondeck.none"
+        }
+    ],
+    "Profiles": [
+        {
+            "Name": "ReactionDeck",
+            "ReadOnly": true,
+            "DeviceType": 0
+        },
+        {
+            "Name": "ReactionDeckMini",
+            "ReadOnly": true,
+            "DeviceType": 1
+        },
+        {
+            "Name": "ReactionDeckXL",
+            "ReadOnly": true,
+            "DeviceType": 2
+        },
+        {
+            "Name": "ReactionDeck",
+            "ReadOnly": true,
+            "DeviceType": 3
+        }
+    ],
+    "SDKVersion": 2,
+    "Author": "Elgato",
+    "CodePath": "index.html",
+    "PropertyInspectorPathXX": "propertyinspector/index.html",
+    "Description": "Test your speed with this reaction game.",
+    "Name": "Reaction Deck",
+    "Icon": "images/icon",
+    "URL": "https://www.elgato.com/gaming/stream-deck",
+    "Version": "1.0.0",
+    "TimerInterval": 100,
+    "OS": [
+        {
+            "Platform": "mac",
+            "MinimumVersion": "10.11"
+        },
+        {
+            "Platform": "windows",
+            "MinimumVersion": "10"
+        }
+    ],
+    "Software": {
+        "MinimumVersion": "4.4"
+    }
+}

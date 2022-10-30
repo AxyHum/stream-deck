@@ -1,0 +1,370 @@
+2022-10-30 00:42:14.4512|INFO|com.barraider.speedtest|69|Disconnect event received
+2022-10-30 00:42:14.4652|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 00:42:25.2043|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 00:42:25.2283|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 00:42:25.4658|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 00:42:25.4658|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 00:42:27.5285|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 00:42:27.5285|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:11:44.1149|INFO|com.barraider.speedtest|88|Disconnect event received
+2022-10-30 01:11:44.1149|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:11:45.3794|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:11:45.4034|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:11:45.6499|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:11:45.6499|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:11:47.7172|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:11:47.7172|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:12:40.4065|INFO|com.barraider.speedtest|8|Disconnect event received
+2022-10-30 01:12:40.4065|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:12:41.7135|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:12:41.7390|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:12:41.9765|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:12:41.9765|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:12:44.0474|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:12:44.0474|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:17:39.9822|INFO|com.barraider.speedtest|25|Disconnect event received
+2022-10-30 01:17:39.9822|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:17:56.7486|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:17:56.7751|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:17:57.0121|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:17:57.0121|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:17:59.0851|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:17:59.0851|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:22:52.5978|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:22:52.6228|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:22:52.9308|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:22:52.9308|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:22:55.0061|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:22:55.0081|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:30:30.1385|INFO|com.barraider.speedtest|28|Disconnect event received
+2022-10-30 01:30:30.1385|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:30:32.6775|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:30:32.7020|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:30:33.0120|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:30:33.0120|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:30:35.0953|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:30:35.0953|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:31:41.4620|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 01:31:41.4620|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:31:42.6606|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:31:42.6841|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:31:42.9111|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:31:42.9111|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:31:44.9792|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:31:44.9792|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:44:49.6591|INFO|com.barraider.speedtest|47|Disconnect event received
+2022-10-30 01:44:49.6591|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:44:50.8871|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:44:50.9101|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:44:51.1596|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:44:51.1596|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:44:53.2236|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:44:53.2236|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:49:14.5696|INFO|com.barraider.speedtest|14|Disconnect event received
+2022-10-30 01:49:14.5696|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:49:15.7370|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:49:15.7575|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:49:15.9875|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:49:15.9875|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:49:18.0503|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:49:18.0503|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 01:51:04.3523|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 01:51:04.3523|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 01:51:05.5401|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 01:51:05.5616|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 01:51:05.8006|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 01:51:05.8006|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 01:51:07.8614|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 01:51:07.8614|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:09:42.3817|INFO|com.barraider.speedtest|70|Disconnect event received
+2022-10-30 12:09:42.3822|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:09:43.5942|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:09:43.6202|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:09:43.8492|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:09:43.8492|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:09:45.9162|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:09:45.9162|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:11:51.3504|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:11:51.3744|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:11:51.7054|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:11:51.7054|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:11:53.7762|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:11:53.7762|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:20:11.3899|INFO|com.barraider.speedtest|31|Disconnect event received
+2022-10-30 12:20:11.3899|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:20:13.7518|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:20:13.7733|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:20:14.0323|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:20:14.0323|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:20:16.0989|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:20:16.0989|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:21:00.4032|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 12:21:00.4032|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:10.7121|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:21:10.7351|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:21:10.9776|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:21:10.9776|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:21:13.0431|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:21:13.0431|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:21:34.5363|INFO|com.barraider.speedtest|8|Disconnect event received
+2022-10-30 12:21:34.5363|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:53.8679|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:21:53.8899|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:21:54.1219|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:21:54.1219|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:21:56.1858|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:21:56.1858|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:24:28.4824|INFO|com.barraider.speedtest|18|Disconnect event received
+2022-10-30 12:24:28.4824|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:25:15.2563|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:25:15.2808|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:25:15.5158|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:25:15.5158|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:25:17.5858|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:25:17.5858|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:26:40.2270|INFO|com.barraider.speedtest|14|Disconnect event received
+2022-10-30 12:26:40.2270|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:26:51.3285|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:26:51.3530|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:26:51.6110|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:26:51.6110|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:26:53.6797|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:26:53.6797|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:28:46.9510|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:28:46.9750|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:28:47.2630|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:28:47.2630|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:28:49.3188|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:28:49.3188|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:35:11.1020|INFO|com.barraider.speedtest|24|Disconnect event received
+2022-10-30 12:35:11.1020|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:12.4251|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:35:12.4491|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:35:12.7071|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:35:12.7071|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:35:14.7737|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:35:14.7737|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:35:39.1474|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 12:35:39.1479|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:40.3880|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:35:40.4105|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:35:40.6545|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:35:40.6545|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:35:42.7228|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:35:42.7228|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:35:52.0030|INFO|com.barraider.speedtest|8|Disconnect event received
+2022-10-30 12:35:52.0030|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:53.1682|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:35:53.1938|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:35:53.4592|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:35:53.4592|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:35:55.5347|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:35:55.5347|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:41:19.7903|INFO|com.barraider.speedtest|24|Disconnect event received
+2022-10-30 12:41:19.7903|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:41:20.9977|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:41:21.0227|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:41:21.2777|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:41:21.2777|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:41:23.3528|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:41:23.3528|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 12:41:53.8119|INFO|com.barraider.speedtest|10|Disconnect event received
+2022-10-30 12:41:53.8119|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 12:42:41.1649|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 12:42:41.1849|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 12:42:41.4234|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 12:42:41.4234|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 12:42:43.4953|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 12:42:43.4953|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:37:08.9004|INFO|com.barraider.speedtest|53|Disconnect event received
+2022-10-30 14:37:08.9004|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:37:10.3094|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:37:10.3344|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:37:10.5769|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:37:10.5769|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:37:12.6472|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:37:12.6482|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:40:06.5231|INFO|com.barraider.speedtest|17|Disconnect event received
+2022-10-30 14:40:06.5231|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:40:35.6625|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:40:35.6880|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:40:35.9395|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:40:35.9395|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:40:38.0003|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:40:38.0003|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:41:40.1023|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 14:41:40.1023|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:41:41.3446|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:41:41.3691|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:41:41.6201|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:41:41.6201|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:41:43.6922|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:41:43.6922|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:42:58.0396|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 14:42:58.0396|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:42:59.3307|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:42:59.3552|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:42:59.6017|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:42:59.6017|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:43:01.6648|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:43:01.6648|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:43:27.6509|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 14:43:27.6509|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:43:29.0026|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:43:29.0271|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:43:29.2826|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:43:29.2826|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:43:31.3459|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:43:31.3459|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:44:36.0027|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 14:44:36.0027|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:44:37.3647|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:44:37.3907|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:44:37.6592|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:44:37.6592|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:44:39.7307|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:44:39.7307|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:48:05.8000|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 14:48:05.8000|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:07.0885|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:48:07.1110|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:48:07.3900|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:48:07.3900|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:48:09.4761|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:48:09.4761|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:48:53.9912|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 14:48:53.9917|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:55.2552|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:48:55.2777|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:48:55.5222|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:48:55.5227|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:48:57.6041|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:48:57.6041|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:49:48.0619|INFO|com.barraider.speedtest|10|Disconnect event received
+2022-10-30 14:49:48.0619|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:49:49.3774|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:49:49.4029|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:49:49.6554|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:49:49.6554|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:49:51.7219|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:49:51.7219|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:50:13.7823|INFO|com.barraider.speedtest|6|Disconnect event received
+2022-10-30 14:50:13.7823|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:50:15.2144|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:50:15.2384|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:50:15.4869|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:50:15.4869|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:50:17.5581|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:50:17.5581|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:51:00.9878|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 14:51:00.9878|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:02.2617|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:51:02.2837|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:51:02.5272|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:51:02.5272|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:51:04.6080|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:51:04.6080|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:51:22.1269|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 14:51:22.1269|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:23.3795|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:51:23.4040|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:51:23.6420|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:51:23.6420|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:51:25.7082|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:51:25.7082|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:52:45.3570|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 14:52:45.3570|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:52:46.6102|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:52:46.6322|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:52:46.8812|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:52:46.8812|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:52:48.9540|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:52:48.9540|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 14:53:25.8971|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 14:53:25.8981|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 14:53:27.1891|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 14:53:27.2146|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 14:53:27.4931|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 14:53:27.4931|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 14:53:29.5688|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 14:53:29.5698|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:22:49.9939|INFO|com.barraider.speedtest|91|Disconnect event received
+2022-10-30 15:22:49.9939|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:36:49.8929|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:36:49.9159|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:36:50.1514|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:36:50.1514|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:36:52.2277|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:36:52.2277|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:37:13.0248|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 15:37:13.0248|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:37:14.2082|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:37:14.2277|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:37:14.4807|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:37:14.4807|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:37:16.5531|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:37:16.5541|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:38:29.3662|INFO|com.barraider.speedtest|14|Disconnect event received
+2022-10-30 15:38:29.3667|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:30.5331|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:38:30.5576|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:38:30.7986|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:38:30.7986|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:38:32.8699|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:38:32.8699|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:38:55.9939|INFO|com.barraider.speedtest|8|Disconnect event received
+2022-10-30 15:38:55.9939|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:57.2368|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:38:57.2598|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:38:57.5013|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:38:57.5013|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:38:59.5795|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:38:59.5795|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:39:20.2964|INFO|com.barraider.speedtest|7|Disconnect event received
+2022-10-30 15:39:20.2964|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:39:21.4944|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:39:21.5144|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:39:21.7589|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:39:21.7589|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:39:23.8340|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:39:23.8340|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:40:26.5846|INFO|com.barraider.speedtest|12|Disconnect event received
+2022-10-30 15:40:26.5856|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:40:27.8130|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:40:27.8355|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:40:28.0765|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:40:28.0765|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:40:30.1529|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:40:30.1529|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:41:10.2924|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 15:41:10.2924|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:41:11.6612|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:41:11.6847|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:41:11.9372|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:41:11.9372|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:41:14.0131|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:41:14.0131|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:42:04.0314|INFO|com.barraider.speedtest|11|Disconnect event received
+2022-10-30 15:42:04.0314|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:05.3614|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:42:05.3854|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:42:05.6474|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:42:05.6479|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:42:07.7281|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:42:07.7281|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:42:28.6699|INFO|com.barraider.speedtest|6|Disconnect event received
+2022-10-30 15:42:28.6699|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:29.8271|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:42:29.8511|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:42:30.0986|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:42:30.0986|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:42:32.1666|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:42:32.1666|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized
+2022-10-30 15:45:17.1460|INFO|com.barraider.speedtest|15|Disconnect event received
+2022-10-30 15:45:17.1460|INFO|com.barraider.speedtest|1|Plugin Disconnected - Exiting
+2022-10-30 15:45:18.3245|DEBUG|com.barraider.speedtest|1|Logger Initialized
+2022-10-30 15:45:18.3470|INFO|com.barraider.speedtest|1|Plugin [com.barraider.speedtest] Loading - 1 Actions Found
+2022-10-30 15:45:18.6055|INFO|com.barraider.speedtest|1|Plugin version: 1.2
+2022-10-30 15:45:18.6055|INFO|com.barraider.speedtest|1|Connecting to Stream Deck
+2022-10-30 15:45:20.6799|INFO|com.barraider.speedtest|1|Connected to Stream Deck
+2022-10-30 15:45:20.6799|INFO|com.barraider.speedtest|1|GlobalSettingsManager initialized

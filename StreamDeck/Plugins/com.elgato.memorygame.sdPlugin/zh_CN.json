@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "重置",
+    "Solved": "已解决"
+  },
+  "Description": "通过此内存卡游戏，让大脑保持良好状态。",
+  "Name": "记忆游戏",
+  "com.elgato.memorygame.tile": {
+    "Name": "图块"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "重置"
+  }
+}

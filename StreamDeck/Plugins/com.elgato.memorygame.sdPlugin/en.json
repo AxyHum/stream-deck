@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "Reset",
+    "Solved": "Solved"
+  },
+  "Description": "Keep your brain in shape with this memory card game.",
+  "Name": "Memory Game",
+  "com.elgato.memorygame.tile": {
+    "Name": "Tile"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "Reset"
+  }
+}

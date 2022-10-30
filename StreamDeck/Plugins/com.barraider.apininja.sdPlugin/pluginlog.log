@@ -1,0 +1,400 @@
+2022-10-30 00:14:36.4775|INFO|com.barraider.apininja|33|Destructor called
+2022-10-30 00:39:47.2432|INFO|com.barraider.apininja|102|Destructor called
+2022-10-30 00:39:51.6614|INFO|com.barraider.apininja|102|Key Pressed APINinja.Actions.APINinjaAction
+2022-10-30 00:39:51.8200|INFO|com.barraider.apininja|99|Request was successful with code: OK
+2022-10-30 00:39:53.9154|INFO|com.barraider.apininja|99|Destructor called
+2022-10-30 00:40:30.7481|INFO|com.barraider.apininja|101|Destructor called
+2022-10-30 00:42:14.4472|INFO|com.barraider.apininja|110|Disconnect event received
+2022-10-30 00:42:14.4472|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 00:42:25.2038|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 00:42:25.2278|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 00:42:25.4738|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 00:42:25.4738|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 00:42:27.5435|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 00:42:27.5435|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 00:42:54.1509|INFO|com.barraider.apininja|8|Destructor called
+2022-10-30 00:45:05.1969|INFO|com.barraider.apininja|17|Destructor called
+2022-10-30 00:59:07.7200|INFO|com.barraider.apininja|55|Destructor called
+2022-10-30 01:00:01.2201|INFO|com.barraider.apininja|60|Destructor called
+2022-10-30 01:00:05.7107|INFO|com.barraider.apininja|60|Destructor called
+2022-10-30 01:00:12.5468|INFO|com.barraider.apininja|60|Destructor called
+2022-10-30 01:01:15.8262|INFO|com.barraider.apininja|64|Destructor called
+2022-10-30 01:03:24.8859|INFO|com.barraider.apininja|69|Destructor called
+2022-10-30 01:03:55.0098|INFO|com.barraider.apininja|69|Destructor called
+2022-10-30 01:04:06.3016|INFO|com.barraider.apininja|69|Destructor called
+2022-10-30 01:04:54.4272|INFO|com.barraider.apininja|69|Destructor called
+2022-10-30 01:08:51.6459|INFO|com.barraider.apininja|81|Destructor called
+2022-10-30 01:09:23.3253|INFO|com.barraider.apininja|84|Destructor called
+2022-10-30 01:11:44.1138|INFO|com.barraider.apininja|90|Disconnect event received
+2022-10-30 01:11:44.1138|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:11:45.3949|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:11:45.4194|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:11:45.6559|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:11:45.6559|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:11:47.7172|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:11:47.7172|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:12:40.4065|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 01:12:40.4065|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:12:41.7055|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:12:41.7305|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:12:41.9820|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:12:41.9820|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:12:44.0479|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:12:44.0479|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:12:48.7696|INFO|com.barraider.apininja|8|Destructor called
+2022-10-30 01:17:39.9847|INFO|com.barraider.apininja|27|Disconnect event received
+2022-10-30 01:17:39.9847|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:17:56.7196|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:17:56.7461|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:17:56.9776|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:17:56.9776|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:17:59.0402|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:17:59.0402|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:22:52.5978|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:22:52.6228|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:22:52.9338|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:22:52.9338|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:22:55.0071|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:22:55.0071|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:30:30.1385|INFO|com.barraider.apininja|29|Disconnect event received
+2022-10-30 01:30:30.1385|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:30:32.6805|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:30:32.7050|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:30:33.0175|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:30:33.0175|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:30:35.0953|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:30:35.0953|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:31:41.4615|INFO|com.barraider.apininja|13|Disconnect event received
+2022-10-30 01:31:41.4615|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:31:42.6506|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:31:42.6746|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:31:42.9261|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:31:42.9261|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:31:44.9917|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:31:44.9917|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:44:49.6581|INFO|com.barraider.apininja|46|Disconnect event received
+2022-10-30 01:44:49.6581|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:44:50.9156|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:44:50.9406|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:44:51.1891|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:44:51.1891|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:44:53.2531|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:44:53.2531|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:49:14.5696|INFO|com.barraider.apininja|21|Disconnect event received
+2022-10-30 01:49:14.5696|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:49:15.7510|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:49:15.7755|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:49:16.0205|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:49:16.0205|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:49:18.0933|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:49:18.0933|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 01:51:04.3538|INFO|com.barraider.apininja|13|Disconnect event received
+2022-10-30 01:51:04.3538|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 01:51:05.5321|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 01:51:05.5571|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 01:51:05.8011|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 01:51:05.8011|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 01:51:07.8609|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 01:51:07.8609|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 11:28:10.9986|INFO|com.barraider.apininja|45|Destructor called
+2022-10-30 11:28:16.9648|INFO|com.barraider.apininja|45|Destructor called
+2022-10-30 11:28:21.4406|INFO|com.barraider.apininja|45|Destructor called
+2022-10-30 11:28:23.3032|INFO|com.barraider.apininja|45|Destructor called
+2022-10-30 11:28:29.7313|INFO|com.barraider.apininja|43|Destructor called
+2022-10-30 12:09:42.3817|INFO|com.barraider.apininja|127|Disconnect event received
+2022-10-30 12:09:42.3822|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:09:43.6397|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:09:43.6637|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:09:43.9007|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:09:43.9007|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:09:45.9782|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:09:45.9782|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:11:51.3594|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:11:51.3834|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:11:51.7074|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:11:51.7074|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:11:53.7772|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:11:53.7772|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:20:11.3899|INFO|com.barraider.apininja|32|Disconnect event received
+2022-10-30 12:20:11.3899|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:20:13.7498|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:20:13.7673|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:20:14.0283|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:20:14.0283|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:20:16.1019|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:20:16.1019|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:21:00.4032|INFO|com.barraider.apininja|10|Disconnect event received
+2022-10-30 12:21:00.4032|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:10.7351|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:21:10.7591|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:21:11.0096|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:21:11.0096|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:21:13.0736|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:21:13.0736|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:21:34.5378|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 12:21:34.5378|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:21:53.8899|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:21:53.9094|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:21:54.1599|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:21:54.1599|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:21:56.2163|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:21:56.2163|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:22:56.4861|INFO|com.barraider.apininja|7|Destructor called
+2022-10-30 12:24:28.4824|INFO|com.barraider.apininja|14|Disconnect event received
+2022-10-30 12:24:28.4824|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:25:15.2193|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:25:15.2433|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:25:15.4833|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:25:15.4833|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:25:17.5543|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:25:17.5543|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:26:40.2240|INFO|com.barraider.apininja|15|Disconnect event received
+2022-10-30 12:26:40.2240|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:26:51.3075|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:26:51.3270|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:26:51.5580|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:26:51.5580|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:26:53.6327|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:26:53.6327|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:28:46.9530|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:28:46.9760|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:28:47.2640|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:28:47.2640|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:28:49.3345|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:28:49.3345|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:35:11.1020|INFO|com.barraider.apininja|24|Disconnect event received
+2022-10-30 12:35:11.1020|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:12.4736|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:35:12.4951|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:35:12.7541|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:35:12.7541|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:35:14.8232|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:35:14.8232|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:35:39.1469|INFO|com.barraider.apininja|7|Disconnect event received
+2022-10-30 12:35:39.1469|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:40.3610|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:35:40.3840|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:35:40.6310|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:35:40.6310|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:35:42.7073|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:35:42.7073|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:35:51.9950|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 12:35:51.9950|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:35:53.1532|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:35:53.1737|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:35:53.4332|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:35:53.4332|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:35:55.5202|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:35:55.5202|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:40:42.3153|INFO|com.barraider.apininja|21|Destructor called
+2022-10-30 12:41:19.7898|INFO|com.barraider.apininja|23|Disconnect event received
+2022-10-30 12:41:19.7898|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:41:21.0227|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:41:21.0467|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:41:21.3002|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:41:21.3002|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:41:23.3698|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:41:23.3698|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:41:53.8144|INFO|com.barraider.apininja|10|Disconnect event received
+2022-10-30 12:41:53.8144|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 12:42:41.1364|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 12:42:41.1569|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 12:42:41.4054|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 12:42:41.4054|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 12:42:43.4803|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 12:42:43.4803|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 12:47:20.4024|INFO|com.barraider.apininja|23|Destructor called
+2022-10-30 14:37:08.8999|INFO|com.barraider.apininja|107|Disconnect event received
+2022-10-30 14:37:08.8999|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:37:10.2759|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:37:10.3019|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:37:10.5529|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:37:10.5529|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:37:12.6327|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:37:12.6327|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:40:06.5291|INFO|com.barraider.apininja|18|Disconnect event received
+2022-10-30 14:40:06.5291|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:40:35.6455|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:40:35.6710|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:40:35.9100|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:40:35.9100|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:40:37.9853|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:40:37.9853|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:41:40.1013|INFO|com.barraider.apininja|13|Disconnect event received
+2022-10-30 14:41:40.1013|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:41:41.3191|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:41:41.3436|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:41:41.5966|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:41:41.5966|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:41:43.6762|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:41:43.6762|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:42:58.0401|INFO|com.barraider.apininja|13|Disconnect event received
+2022-10-30 14:42:58.0401|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:42:59.3067|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:42:59.3312|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:42:59.5782|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:42:59.5782|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:43:01.6508|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:43:01.6508|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:43:27.6515|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 14:43:27.6515|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:43:28.9766|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:43:29.0006|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:43:29.2446|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:43:29.2446|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:43:31.3184|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:43:31.3184|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:44:36.0022|INFO|com.barraider.apininja|12|Disconnect event received
+2022-10-30 14:44:36.0022|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:44:37.3102|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:44:37.3357|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:44:37.6167|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:44:37.6167|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:44:39.7007|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:44:39.7007|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:48:05.7985|INFO|com.barraider.apininja|19|Disconnect event received
+2022-10-30 14:48:05.7985|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:07.1150|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:48:07.1395|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:48:07.4225|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:48:07.4225|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:48:09.5106|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:48:09.5106|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:48:53.9912|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 14:48:53.9917|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:48:55.2617|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:48:55.2867|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:48:55.5432|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:48:55.5432|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:48:57.6181|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:48:57.6181|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:49:48.0619|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 14:49:48.0619|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:49:49.3644|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:49:49.3869|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:49:49.6419|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:49:49.6419|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:49:51.7069|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:49:51.7069|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:50:13.7803|INFO|com.barraider.apininja|6|Disconnect event received
+2022-10-30 14:50:13.7803|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:50:15.1809|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:50:15.2069|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:50:15.4734|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:50:15.4734|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:50:17.5441|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:50:17.5441|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:51:00.9883|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 14:51:00.9883|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:02.2517|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:51:02.2747|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:51:02.5187|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:51:02.5187|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:51:04.5880|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:51:04.5880|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:51:22.1279|INFO|com.barraider.apininja|7|Disconnect event received
+2022-10-30 14:51:22.1279|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:51:23.3800|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:51:23.4005|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:51:23.6530|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:51:23.6530|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:51:25.7252|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:51:25.7262|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:52:45.3570|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 14:52:45.3570|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:52:46.6192|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:52:46.6397|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:52:46.8902|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:52:46.8902|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:52:48.9545|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:52:48.9545|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 14:53:25.8946|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 14:53:25.8946|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 14:53:27.2421|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 14:53:27.2661|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 14:53:27.5496|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 14:53:27.5496|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 14:53:29.6148|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 14:53:29.6148|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:22:49.9949|INFO|com.barraider.apininja|96|Disconnect event received
+2022-10-30 15:22:49.9949|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:36:49.8794|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:36:49.8979|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:36:50.1514|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:36:50.1514|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:36:52.2287|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:36:52.2287|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:37:13.0153|INFO|com.barraider.apininja|8|Disconnect event received
+2022-10-30 15:37:13.0153|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:37:14.2002|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:37:14.2237|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:37:14.4752|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:37:14.4752|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:37:16.5526|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:37:16.5526|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:38:29.3657|INFO|com.barraider.apininja|12|Disconnect event received
+2022-10-30 15:38:29.3657|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:30.5521|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:38:30.5751|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:38:30.8081|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:38:30.8081|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:38:32.8859|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:38:32.8859|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:38:55.9939|INFO|com.barraider.apininja|7|Disconnect event received
+2022-10-30 15:38:55.9939|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:38:57.2343|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:38:57.2578|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:38:57.5068|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:38:57.5073|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:38:59.5795|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:38:59.5795|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:39:20.2964|INFO|com.barraider.apininja|7|Disconnect event received
+2022-10-30 15:39:20.2964|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:39:21.4699|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:39:21.4924|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:39:21.7404|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:39:21.7404|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:39:23.8190|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:39:23.8200|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:40:26.5846|INFO|com.barraider.apininja|12|Disconnect event received
+2022-10-30 15:40:26.5861|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:40:27.8225|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:40:27.8430|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:40:28.1005|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:40:28.1010|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:40:30.1679|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:40:30.1679|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:41:10.2924|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 15:41:10.2924|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:41:11.6377|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:41:11.6627|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:41:11.9217|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:41:11.9217|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:41:13.9981|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:41:13.9981|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:42:04.0309|INFO|com.barraider.apininja|11|Disconnect event received
+2022-10-30 15:42:04.0309|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:05.3939|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:42:05.4184|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:42:05.6699|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:42:05.6699|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:42:07.7431|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:42:07.7431|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:42:28.6699|INFO|com.barraider.apininja|7|Disconnect event received
+2022-10-30 15:42:28.6699|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:42:29.8201|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:42:29.8436|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:42:30.1026|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:42:30.1026|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:42:32.1676|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:42:32.1676|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:44:55.5279|INFO|com.barraider.apininja|14|Destructor called
+2022-10-30 15:45:17.1455|INFO|com.barraider.apininja|14|Disconnect event received
+2022-10-30 15:45:17.1455|INFO|com.barraider.apininja|1|Plugin Disconnected - Exiting
+2022-10-30 15:45:18.3205|DEBUG|com.barraider.apininja|1|Logger Initialized
+2022-10-30 15:45:18.3435|INFO|com.barraider.apininja|1|Plugin [com.barraider.apininja] Loading - 1 Actions Found
+2022-10-30 15:45:18.5900|INFO|com.barraider.apininja|1|Plugin version: 1.3
+2022-10-30 15:45:18.5900|INFO|com.barraider.apininja|1|Connecting to Stream Deck
+2022-10-30 15:45:20.6659|INFO|com.barraider.apininja|1|Connected to Stream Deck
+2022-10-30 15:45:20.6659|INFO|com.barraider.apininja|1|GlobalSettingsManager initialized
+2022-10-30 15:45:25.3128|INFO|com.barraider.apininja|8|Destructor called

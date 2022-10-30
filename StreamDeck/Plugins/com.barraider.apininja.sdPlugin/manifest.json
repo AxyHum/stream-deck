@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/apininjaIcon",
+      "Name": "API Ninja",
+      "States": [
+        {
+          "Image": "Images/apininjaAction",
+          "TitleAlignment": "middle",
+          "FontSize": "11"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Send GET/POST/PUT API commands and see the result on the Stream Deck.",
+      "UUID": "com.barraider.apininja",
+      "PropertyInspectorPath": "PropertyInspector/APINinja.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Send GET/POST/PUT/... API commands and see the result on the Stream Deck.\nSupports Headers (including OAuth tokens) and sending Data in multiple formats.",
+  "Name": "API Ninja",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://barraider.com/",
+  "Version": "1.3",
+  "CodePath": "com.barraider.apininja",
+  "Category": "BarRaider",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}

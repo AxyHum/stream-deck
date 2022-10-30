@@ -1,0 +1,24 @@
+{
+    "Description": "Test your reaction with this game.",
+    "Name": "Reaction Deck",
+    "Category": "Games",
+    "com.elgato.reactiondeck.none": {
+        "Name": "Action",
+        "Tooltip": "This is nothing"
+    },
+    "com.elgato.reactiondeck.tile": {
+        "Name": "Action",
+        "Tooltip": "This is a tile"
+    },
+    "com.elgato.reactiondeck.reset": {
+        "Name": "Reset"
+    },
+    "Localization": {
+        "Reaction Game": "Reaction Game",
+        "More info": "More info",
+        "Click Me": "Click Me",
+        "Button": "Button",
+        "Reset": "Reset",
+        "press any\nkey to\nstart game": "press any\nkey to\nstart game"
+    }
+}

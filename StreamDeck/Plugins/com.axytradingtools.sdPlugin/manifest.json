@@ -1,0 +1,85 @@
+{
+  "Actions": [
+    {
+      "Name": "Lot",
+      "States": [
+        {
+          "Image": "images/tile",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "VisibleInActionsList": true,
+      "UUID": "com.axytradingtools.lot"
+    },
+    {
+      "Name": "LotPlus",
+      "States": [
+        {
+          "Image": "images/Green_Insert",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "VisibleInActionsList": true,
+      "UUID": "com.axytradingtools.lotplus"
+    },
+    {
+      "Name": "LotMinus",
+      "States": [
+        {
+          "Image": "images/Red_Minus",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "VisibleInActionsList": true,
+      "UUID": "com.axytradingtools.lotminus"
+    },
+    {
+      "Name": "Symbol",
+      "States": [
+        {
+          "Image": "images/Symbol_Default",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "VisibleInActionsList": true,
+      "UUID": "com.axytradingtools.symbol",
+      "PropertyInspectorPath": "PropertyInspector/symbol.html"
+    }
+  ],
+  "Profiles": [
+    {
+      "Name": "AxyTradingTools",
+      "ReadOnly": true,
+      "DeviceType": 0
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "AxyHum",
+  "CodePath": "index.html",
+  "PropertyInspectorPathXX": "propertyinspector/index.html",
+  "Description": "Outils de trading polyvalent pour Amine le bg",
+  "Name": "AxyTradingTools",
+  "Icon": "images/icon",
+  "URL": "https://axystudio.fr",
+  "Version": "1.0.0",
+  "Category": "ATT 1",
+  "CategoryIcon": "Images/categoryIcon",
+  "TimerInterval": 100,
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.4"
+  }
+}

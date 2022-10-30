@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "リセット",
+    "Solved": "解決済み"
+  },
+  "Description": "このメモリーカードゲームで脳のトレーニング。",
+  "Name": "メモリーゲーム",
+  "com.elgato.memorygame.tile": {
+    "Name": "タイル"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "リセット"
+  }
+}

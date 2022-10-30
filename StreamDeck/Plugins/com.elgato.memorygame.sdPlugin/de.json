@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "Zurücksetzen",
+    "Solved": "Gelöst"
+  },
+  "Description": "Halte mit diesem Memory-Spiel dein Gehirn in Form.",
+  "Name": "Memory-Spiel",
+  "com.elgato.memorygame.tile": {
+    "Name": "Feld"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "Zurücksetzen"
+  }
+}
