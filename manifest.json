@@ -1,0 +1,45 @@
+{
+  "Actions": [
+    {
+      "Name": "Tile",
+      "States": [
+        {
+          "Image": "images/tile",
+          "TitleAlignment": "middle",
+          "FontSize": "18"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "VisibleInActionsList": true,
+      "UUID": "com.axytradingtools.tile"
+    }
+  ],
+  "Profiles": [
+    {
+      "Name": "AxyTradingTools",
+      "ReadOnly": true,
+      "DeviceType": 0
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "AxyHum",
+  "CodePath": "index.html",
+  "PropertyInspectorPathXX": "propertyinspector/index.html",
+  "Description": "Outils de trading polyvalent pour Amine le bg",
+  "Name": "AxyTradingTools",
+  "Icon": "images/icon",
+  "URL": "https://axystudio.fr",
+  "Version": "1.0.0",
+  "TimerInterval": 100,
+  "Category": "ATT 2",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "4.4"
+  }
+}
