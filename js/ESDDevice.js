@@ -120,6 +120,7 @@ class ESDDevice {
             if (this.keys[i]) {
                 const img = this.buffer.getTileDataFromCoordinates(this.keys[i].coordinates);
                 const ctx = this.keys[i].context;
+                console.log(img)
                 $SD.api.setImage(ctx, img);
             }
         }

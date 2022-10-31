@@ -77,6 +77,19 @@ const getESDeviceWithId = (inDeviceId, jsonObj = {}) => {
     return MDevices[inDeviceId];
 };
 
+const getBase64Image = function (image) {
+    var canvas = document.createElement("canvas");
+    canvas.width = image.width;
+    canvas.height = image.height;
+    var ctx = canvas.getContext("2d");
+    ctx.drawImage(image, 0, 0);
+    var dataUrl = canvas.toDataURL("image/png");
+    console.log(dataUrl)
+    return dataUrl
+
+}
+
+
 /** ACTIONS */
 
 const symbol = {
@@ -100,6 +113,7 @@ const symbol = {
     }
 }
 
+var img = 0
 
 const activelot = {
     onKeyDown: async function (jsn) {
@@ -110,33 +124,18 @@ const activelot = {
         const response = await fetchResponse.json();
         SL = response.SL
         $SD.api.setTitle(jsn.context, SL)
+        let image = new Image();
+        image.src = 'images/Green_Insert.png';
+        image.onload = () => {
+            img = getBase64Image(image)
+            $SD.api.setImage(jsn.context, img)
+        }
     },
     init: async function () {
         console.log('sendHttp', url, ' ', 'GET');
         const fetchResponse = await fetch(url);
         const response = await fetchResponse.json();
         SL = response.SL
-    }
-}
-
-const lotMinus = {
-    onKeyDown: function (jsn) {
-        fetch(url + '/sub')
-
-        lotKeyContext = MDevices[jsn.device].keys[0].context;
-        SL -= 1
-        $SD.api.setTitle(lotKeyContext, SL)
-    }
-}
-
-const lotPlus = {
-    onKeyDown: function (jsn) {
-
-        fetch(url + '/add')
-
-        lotKeyContext = MDevices[jsn.device].keys[0].context;
-        SL += 1
-        $SD.api.setTitle(lotKeyContext, SL)
     }
 }
 
