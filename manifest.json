@@ -5,18 +5,34 @@
       "States": [
         {
           "Image": "images/tile",
+          "FontFamily": "Verdana",
+          "FontStyle": "Bold",
+          "FontSize": "10",
           "TitleAlignment": "middle",
-          "FontSize": "18"
+          "TitleColor": "#fe576b"
+        },
+        {
+          "FontFamily": "Verdana",
+          "FontStyle": "Bold",
+          "FontSize": "10",
+          "TitleAlignment": "middle",
+          "TitleColor": "#2ec97d"
         }
       ],
       "SupportedInMultiActions": false,
       "VisibleInActionsList": true,
-      "UUID": "com.axytradingtools.tile"
+      "UUID": "com.axytradingtools.tile",
+      "PropertyInspectorPath": "PropertyInspector/index.html"
     }
   ],
   "Profiles": [
     {
       "Name": "AxyTradingTools",
+      "ReadOnly": true,
+      "DeviceType": 0
+    },
+    {
+      "Name": "Accueil",
       "ReadOnly": true,
       "DeviceType": 0
     }

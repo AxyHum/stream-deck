@@ -21,7 +21,8 @@ class ESDDevice {
         this.keys.push({
             context: jsn.context,
             coordinates: jsn.payload.coordinates,
-            index: this.buffer.getIndexFromCoordinates(jsn.payload.coordinates)
+            index: this.buffer.getIndexFromCoordinates(jsn.payload.coordinates),
+            settings: jsn.payload.settings
         });
     }
 

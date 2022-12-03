@@ -23,14 +23,14 @@ var $localizedStrings = $localizedStrings || {},
     // eslint-disable-next-line no-unused-vars
     isQT = navigator.appVersion.includes('QtWebEngine'),
     debug = debug || false,
-    debugLog = function() { },
+    debugLog = function () { },
     MIMAGECACHE = MIMAGECACHE || {};
 
-const setDebugOutput = debug => (debug === true ? console.log.bind(window.console) : function() { });
+const setDebugOutput = debug => (debug === true ? console.log.bind(window.console) : function () { });
 debugLog = setDebugOutput(debug);
 
 // Create a wrapper to allow passing JSON to the socket
-WebSocket.prototype.sendJSON = function(jsn, log) {
+WebSocket.prototype.sendJSON = function (jsn, log) {
     if (log) {
         console.log('SendJSON', this, jsn);
     }
@@ -40,7 +40,7 @@ WebSocket.prototype.sendJSON = function(jsn, log) {
 };
 
 /* eslint no-extend-native: ["error", { "exceptions": ["String"] }] */
-String.prototype.lox = function() {
+String.prototype.lox = function () {
     var a = String(this);
     try {
         a = $localizedStrings[a] || a;
@@ -48,10 +48,10 @@ String.prototype.lox = function() {
     return a;
 };
 
-String.prototype.sprintf = function(inArr) {
+String.prototype.sprintf = function (inArr) {
     let i = 0;
     const args = inArr && Array.isArray(inArr) ? inArr : arguments;
-    return this.replace(/%s/g, function() {
+    return this.replace(/%s/g, function () {
         return args[i++];
     });
 };
@@ -59,13 +59,13 @@ String.prototype.sprintf = function(inArr) {
 // eslint-disable-next-line no-unused-vars
 const sprintf = (s, ...args) => {
     let i = 0;
-    return s.replace(/%s/g, function() {
+    return s.replace(/%s/g, function () {
         return args[i++];
     });
 };
 
 const loadLocalization = (lang, pathPrefix, cb) => {
-    Utils.readJson(`${pathPrefix}${lang}.json`, function(jsn) {
+    Utils.readJson(`${pathPrefix}${lang}.json`, function (jsn) {
         const manifest = Utils.parseJson(jsn);
         $localizedStrings = manifest && manifest.hasOwnProperty('Localization') ? manifest['Localization'] : {};
         debugLog($localizedStrings);
@@ -74,22 +74,22 @@ const loadLocalization = (lang, pathPrefix, cb) => {
 };
 
 var Utils = {
-    sleep: function(milliseconds) {
+    sleep: function (milliseconds) {
         return new Promise(resolve => setTimeout(resolve, milliseconds));
     },
-    isUndefined: function(value) {
+    isUndefined: function (value) {
         return typeof value === 'undefined';
     },
-    isObject: function(o) {
+    isObject: function (o) {
         return typeof o === 'object' && o !== null && o.constructor && o.constructor === Object;
     },
-    isPlainObject: function(o) {
+    isPlainObject: function (o) {
         return typeof o === 'object' && o !== null && o.constructor && o.constructor === Object;
     },
-    isArray: function(value) {
+    isArray: function (value) {
         return Array.isArray(value);
     },
-    isNumber: function(value) {
+    isNumber: function (value) {
         return typeof value === 'number' && value !== null;
     },
     isInteger(value) {
@@ -104,13 +104,13 @@ var Utils = {
     isCanvas(value) {
         return value instanceof HTMLCanvasElement;
     },
-    isValue: function(value) {
+    isValue: function (value) {
         return !this.isObject(value) && !this.isArray(value);
     },
-    isNull: function(value) {
+    isNull: function (value) {
         return value === null;
     },
-    toInteger: function(value) {
+    toInteger: function (value) {
         const INFINITY = 1 / 0,
             MAX_INTEGER = 1.7976931348623157e308;
         if (!value) {
@@ -124,27 +124,27 @@ var Utils = {
         return value === value ? value : 0;
     }
 };
-Utils.minmax = function(v, min = 0, max = 100) {
+Utils.minmax = function (v, min = 0, max = 100) {
     return Math.min(max, Math.max(min, v));
 };
 
-Utils.transformValue = function(prcnt, min, max) {
+Utils.transformValue = function (prcnt, min, max) {
     return Math.round(((max - min) * prcnt) / 100 + min);
 };
 
-Utils.rangeToPercent = function(value, min, max) {
+Utils.rangeToPercent = function (value, min, max) {
     return (value - min) / (max - min);
 };
 
-Utils.percentToRange = function(percent, min, max) {
+Utils.percentToRange = function (percent, min, max) {
     return (max - min) * percent + min;
 };
 
 Utils.setDebugOutput = debug => {
-    return debug === true ? console.log.bind(window.console) : function() { };
+    return debug === true ? console.log.bind(window.console) : function () { };
 };
 
-Utils.randomComponentName = function(len = 6) {
+Utils.randomComponentName = function (len = 6) {
     return `${Utils.randomLowerString(len)}-${Utils.randomLowerString(len)}`;
 };
 
@@ -163,31 +163,31 @@ Utils.randomElementFromArray = arr => {
     return arr[Math.floor(Math.random() * arr.length)];
 };
 
-Utils.randomString = function(len = 8) {
+Utils.randomString = function (len = 8) {
     return Array.apply(0, Array(len))
-        .map(function() {
-            return (function(charset) {
+        .map(function () {
+            return (function (charset) {
                 return charset.charAt(Math.floor(Math.random() * charset.length));
             })('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789');
         })
         .join('');
 };
 
-Utils.rs = function(len = 8) {
+Utils.rs = function (len = 8) {
     return [...Array(len)].map(i => (~~(Math.random() * 36)).toString(36)).join('');
 };
 
-Utils.randomLowerString = function(len = 8) {
+Utils.randomLowerString = function (len = 8) {
     return Array.apply(0, Array(len))
-        .map(function() {
-            return (function(charset) {
+        .map(function () {
+            return (function (charset) {
                 return charset.charAt(Math.floor(Math.random() * charset.length));
             })('abcdefghijklmnopqrstuvwxyz');
         })
         .join('');
 };
 
-Utils.capitalize = function(str) {
+Utils.capitalize = function (str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 };
 
@@ -216,27 +216,27 @@ Utils.isBlankString = str => {
     return !str || /^\s*$/.test(str);
 };
 
-Utils.log = function() { };
+Utils.log = function () { };
 Utils.count = 0;
-Utils.counter = function() {
+Utils.counter = function () {
     return (this.count += 1);
 };
-Utils.getPrefix = function() {
+Utils.getPrefix = function () {
     return this.prefix + this.counter();
 };
 
 Utils.prefix = Utils.randomString() + '_';
 
-Utils.getUrlParameter = function(name) {
+Utils.getUrlParameter = function (name) {
     const nameA = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
     const regex = new RegExp('[\\?&]' + nameA + '=([^&#]*)');
     const results = regex.exec(location.search.replace(/\/$/, ''));
     return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, ' '));
 };
 
-Utils.debounce = function(func, wait = 100) {
+Utils.debounce = function (func, wait = 100) {
     let timeout;
-    return function(...args) {
+    return function (...args) {
         clearTimeout(timeout);
         timeout = setTimeout(() => {
             func.apply(this, args);
@@ -244,15 +244,15 @@ Utils.debounce = function(func, wait = 100) {
     };
 };
 
-Utils.throttle = function(fn, threshold = 250, context) {
+Utils.throttle = function (fn, threshold = 250, context) {
     let last, timer;
-    return function() {
+    return function () {
         var ctx = context || this;
         var now = new Date().getTime(),
             args = arguments;
         if (last && now < last + threshold) {
             clearTimeout(timer);
-            timer = setTimeout(function() {
+            timer = setTimeout(function () {
                 last = now;
                 fn.apply(ctx, args);
             }, threshold);
@@ -263,7 +263,7 @@ Utils.throttle = function(fn, threshold = 250, context) {
     };
 };
 
-Utils.getRandomColor = function() {
+Utils.getRandomColor = function () {
     return '#' + (((1 << 24) * Math.random()) | 0).toString(16).padStart(6, 0); // just a random color padded to 6 characters
 };
 
@@ -274,7 +274,7 @@ Utils.getRandomColor = function() {
     fadeColor('#200867'), -100); // will darken the color
 */
 
-Utils.fadeColor = function(col, amt) {
+Utils.fadeColor = function (col, amt) {
     const min = Math.min,
         max = Math.max;
     const num = parseInt(col.replace(/#/g, ''), 16);
@@ -284,14 +284,14 @@ Utils.fadeColor = function(col, amt) {
     return '#' + (g | (b << 8) | (r << 16)).toString(16).padStart(6, 0);
 };
 
-Utils.lerpColorWithScale = function(startColor, targetColor, amount, scale = 0.5) {
+Utils.lerpColorWithScale = function (startColor, targetColor, amount, scale = 0.5) {
     if (amount < scale) {
         return Utils.lerpColor(startColor, '#FFF2EC', amount * 2);
     }
     return Utils.lerpColor('#FFF2EC', targetColor, amount);
 };
 
-Utils.lerpColor = function(startColor, targetColor, amount) {
+Utils.lerpColor = function (startColor, targetColor, amount) {
     const ah = parseInt(startColor.replace(/#/g, ''), 16);
     const ar = ah >> 16;
     const ag = (ah >> 8) & 0xff;
@@ -313,7 +313,7 @@ Utils.lerpColor = function(startColor, targetColor, amount) {
     );
 };
 
-Utils.hexToRgb = function(hex) {
+Utils.hexToRgb = function (hex) {
     const match = hex.replace(/#/, '').match(/.{1,2}/g);
     return {
         r: parseInt(match[0], 16),
@@ -330,7 +330,7 @@ Utils.rgbToHex = (r, g, b) =>
         })
         .join('');
 
-Utils.nscolorToRgb = function(rP, gP, bP) {
+Utils.nscolorToRgb = function (rP, gP, bP) {
     return {
         r: Math.round(rP * 255),
         g: Math.round(gP * 255),
@@ -338,24 +338,24 @@ Utils.nscolorToRgb = function(rP, gP, bP) {
     };
 };
 
-Utils.nsColorToHex = function(rP, gP, bP) {
+Utils.nsColorToHex = function (rP, gP, bP) {
     const c = Utils.nscolorToRgb(rP, gP, bP);
     return Utils.rgbToHex(c.r, c.g, c.b);
 };
 
-Utils.miredToKelvin = function(mired) {
+Utils.miredToKelvin = function (mired) {
     return Math.round(1e6 / mired);
 };
 
-Utils.kelvinToMired = function(kelvin, roundTo) {
+Utils.kelvinToMired = function (kelvin, roundTo) {
     return roundTo ? Utils.roundBy(Math.round(1e6 / kelvin), roundTo) : Math.round(1e6 / kelvin);
 };
 
-Utils.roundBy = function(num, x) {
+Utils.roundBy = function (num, x) {
     return Math.round((num - 10) / x) * x;
 };
 
-Utils.quantizeNumber = function(val, quantum, { cover = false } = {}) {
+Utils.quantizeNumber = function (val, quantum, { cover = false } = {}) {
     if (!quantum) {
         return 0;
     }
@@ -367,7 +367,7 @@ Utils.quantizeNumber = function(val, quantum, { cover = false } = {}) {
     return val - remainder + sign * mod;
 };
 
-Utils.getBrightness = function(hexColor) {
+Utils.getBrightness = function (hexColor) {
     // http://www.w3.org/TR/AERT#color-contrast
     if (typeof hexColor === 'string' && hexColor.charAt(0) === '#') {
         var rgb = Utils.hexToRgb(hexColor);
@@ -376,14 +376,14 @@ Utils.getBrightness = function(hexColor) {
     return 0;
 };
 
-Utils.readJson = function(file, callback) {
+Utils.readJson = function (file, callback) {
     var req = new XMLHttpRequest();
-    req.onerror = function(e) {
+    req.onerror = function (e) {
         // Utils.log(`[Utils][readJson] Error while trying to read  ${file}`, e);
     };
     req.overrideMimeType('application/json');
     req.open('GET', file, true);
-    req.onreadystatechange = function() {
+    req.onreadystatechange = function () {
         if (req.readyState === 4) {
             // && req.status == "200") {
             if (callback) callback(req.responseText);
@@ -392,14 +392,14 @@ Utils.readJson = function(file, callback) {
     req.send(null);
 };
 
-Utils.readFile = function(url) {
-    return new Promise(function(resolve, reject) {
+Utils.readFile = function (url) {
+    return new Promise(function (resolve, reject) {
         var xhr = new XMLHttpRequest();
-        xhr.onload = function() {
+        xhr.onload = function () {
             //resolve(new Response(xhr.responseText, {status: xhr.status}))
             resolve(xhr.responseText);
         };
-        xhr.onerror = function() {
+        xhr.onerror = function () {
             reject(new TypeError('Local request failed'));
         };
         xhr.open('GET', url);
@@ -407,20 +407,20 @@ Utils.readFile = function(url) {
     });
 };
 
-Utils.loadScript = function(url, callback) {
+Utils.loadScript = function (url, callback) {
     const el = document.createElement('script');
     el.src = url;
-    el.onload = function() {
+    el.onload = function () {
         callback(url, true);
     };
-    el.onerror = function() {
+    el.onerror = function () {
         console.error('Failed to load file: ' + url);
         callback(url, false);
     };
     document.body.appendChild(el);
 };
 
-Utils.parseJson = function(jsonString) {
+Utils.parseJson = function (jsonString) {
     if (typeof jsonString === 'object') return jsonString;
     try {
         const o = JSON.parse(jsonString);
@@ -437,7 +437,7 @@ Utils.parseJson = function(jsonString) {
     return false;
 };
 
-Utils.parseJSONPromise = function(jsonString) {
+Utils.parseJSONPromise = function (jsonString) {
     // fetch('/my-json-doc-as-string')
     // .then(Utils.parseJSONPromise)
     // .then(heresYourValidJSON)
@@ -458,7 +458,7 @@ Utils.parseJSONPromise = function(jsonString) {
 };
 
 /* eslint-disable import/prefer-default-export */
-Utils.getProperty = function(obj, dotSeparatedKeys, defaultValue) {
+Utils.getProperty = function (obj, dotSeparatedKeys, defaultValue) {
     if (arguments.length > 1 && typeof dotSeparatedKeys !== 'string') return undefined;
     if (typeof obj !== 'undefined' && typeof dotSeparatedKeys === 'string') {
         const pathArr = dotSeparatedKeys.split('.');
@@ -491,7 +491,7 @@ Utils.getProp = (jsn, str, defaultValue = {}, sep = '.') => {
     return arr.reduce((obj, key) => (obj && obj.hasOwnProperty(key) ? obj[key] : defaultValue), jsn);
 };
 
-Utils.setProp = function(jsonObj, path, value) {
+Utils.setProp = function (jsonObj, path, value) {
     const names = path.split('.');
     let jsn = jsonObj;
 
@@ -512,10 +512,10 @@ Utils.setProp = function(jsonObj, path, value) {
     return jsn;
 };
 
-Utils.getDataUri = function(url, callback, inCanvas, inFillcolor, w, h, clearCtx) {
+Utils.getDataUri = function (url, callback, inCanvas, inFillcolor, w, h, clearCtx) {
     var image = new Image();
 
-    image.onload = function() {
+    image.onload = function () {
         const canvas = inCanvas && Utils.isCanvas(inCanvas) ? inCanvas : document.createElement('canvas');
 
         canvas.width = w || this.naturalWidth; // or 'width' if you want a special/scaled size
@@ -540,10 +540,10 @@ Utils.getDataUri = function(url, callback, inCanvas, inFillcolor, w, h, clearCtx
     image.src = url;
 };
 
-Utils.s2c = function(svg, inCanvas, inContext, w, h, cb) {
+Utils.s2c = function (svg, inCanvas, inContext, w, h, cb) {
     var img = new Image();
     img.src = svg;
-    img.onload = function() {
+    img.onload = function () {
         let cnv = inCanvas || document.createElement('canvas');
         let ctx = inContext || cnv.getContext('2d');
         cnv.width = w || image.naturalWidth;
@@ -586,7 +586,7 @@ Utils.createColoredKeyAsDataUrl = (inCanvas, inFillcolor, inWidth = 144, inHeigh
 /** Quick utility to inject a style to the DOM
  * e.g. injectStyle('.localbody { background-color: green;}')
  */
-Utils.injectStyle = function(styles, styleId) {
+Utils.injectStyle = function (styles, styleId) {
     const node = document.createElement('style');
     const tempID = styleId || Utils.randomString(8);
     node.setAttribute('id', tempID);
@@ -595,9 +595,9 @@ Utils.injectStyle = function(styles, styleId) {
     return node;
 };
 
-Utils.loadImageData = function(inUrl, callback) {
+Utils.loadImageData = function (inUrl, callback) {
     let image = new Image();
-    image.onload = function() {
+    image.onload = function () {
         callback(image);
         // or to get raw image data
         // callback && callback(canvas.toDataURL('image/png').replace(/^data:image\/(png|jpg);base64,/, ''));
@@ -639,7 +639,7 @@ Utils.loadImageWithOptions = (url, w, h, inCanvas, clearCtx, inFillcolor) =>
         img.src = url;
     });
 
-Utils.loadImage = function(inUrl, callback, inCanvas, inFillcolor) {
+Utils.loadImage = function (inUrl, callback, inCanvas, inFillcolor) {
     /** Convert to array, so we may load multiple images at once */
     const aUrl = !Array.isArray(inUrl) ? [inUrl] : inUrl;
     const canvas = inCanvas && inCanvas instanceof HTMLCanvasElement ? inCanvas : document.createElement('canvas');
@@ -655,7 +655,7 @@ Utils.loadImage = function(inUrl, callback, inCanvas, inFillcolor) {
         let w = 144,
             h = 144;
 
-        image.onload = function() {
+        image.onload = function () {
             imgCache[url] = this;
             // look at the size of the first image
             if (url === aUrl[0]) {
@@ -691,7 +691,7 @@ Utils.loadImage = function(inUrl, callback, inCanvas, inFillcolor) {
     }
 };
 
-Utils.crop = function(canvas, offsetX, offsetY, width, height, callback, inCanvas) {
+Utils.crop = function (canvas, offsetX, offsetY, width, height, callback, inCanvas) {
     var buffer = inCanvas && inCanvas instanceof HTMLCanvasElement ? inCanvas : document.createElement('canvas');
     var ctx = buffer.getContext('2d');
     buffer.width = width;
@@ -703,15 +703,15 @@ Utils.crop = function(canvas, offsetX, offsetY, width, height, callback, inCanva
     if (callback) callback(buffer.toDataURL('image/png'));
 };
 
-Utils.getData = function(url) {
+Utils.getData = function (url) {
     // Return a new promise.
-    return new Promise(function(resolve, reject) {
+    return new Promise(function (resolve, reject) {
         // Do the usual XHR stuff
         var req = new XMLHttpRequest();
         // Make sure to call .open asynchronously
         req.open('GET', url, true);
 
-        req.onload = function() {
+        req.onload = function () {
             // This is called even on 404 etc
             // so check the status
             if (req.status === 200) {
@@ -725,7 +725,7 @@ Utils.getData = function(url) {
         };
 
         // Handle network errors
-        req.onerror = function() {
+        req.onerror = function () {
             reject(Error('Network Error'));
         };
 
@@ -734,21 +734,21 @@ Utils.getData = function(url) {
     });
 };
 
-Utils.negArray = function(arr) {
+Utils.negArray = function (arr) {
     /** http://h3manth.com/new/blog/2013/negative-array-index-in-javascript/ */
     return Proxy.create({
-        set: function(proxy, index, value) {
+        set: function (proxy, index, value) {
             index = parseInt(index);
             return index < 0 ? (arr[arr.length + index] = value) : (arr[index] = value);
         },
-        get: function(proxy, index) {
+        get: function (proxy, index) {
             index = parseInt(index);
             return index < 0 ? arr[arr.length + index] : arr[index];
         }
     });
 };
 
-Utils.onChange = function(object, changedCallback, callback) {
+Utils.onChange = function (object, changedCallback, callback) {
     /** https://github.com/sindresorhus/on-change */
     'use strict';
     const handler = {
@@ -792,7 +792,7 @@ Utils.onChange = function(object, changedCallback, callback) {
     return new Proxy(object, handler);
 };
 
-Utils.observeArray = function(object, callback) {
+Utils.observeArray = function (object, callback) {
     'use strict';
     const array = [];
     const handler = {
@@ -851,7 +851,7 @@ function connectSocket(inPort, inUUID, inMessageType, inApplicationInfo, inActio
  * communication with SD-Software and the Property Inspector
  */
 
-const StreamDeck = (function() {
+const StreamDeck = (function () {
     // Hello it's me
     var instance;
     /*
@@ -897,7 +897,7 @@ const StreamDeck = (function() {
 
             const lang = Utils.getProp(inApplicationInfo, 'application.language', false);
             if (lang) {
-                loadLocalization(lang, inMessageType === 'registerPropertyInspector' ? '../' : './', function() {
+                loadLocalization(lang, inMessageType === 'registerPropertyInspector' ? '../' : './', function () {
                     events.emit('localizationLoaded', { language: lang });
                 });
             }
@@ -915,7 +915,7 @@ const StreamDeck = (function() {
 
             websocket = new WebSocket('ws://127.0.0.1:' + inPort); //localhost
 
-            websocket.onopen = function() {
+            websocket.onopen = function () {
                 var json = {
                     event: inMessageType,
                     uuid: inUUID
@@ -949,17 +949,17 @@ const StreamDeck = (function() {
                 });
             };
 
-            websocket.onerror = function(evt) {
+            websocket.onerror = function (evt) {
                 console.warn('WEBOCKET ERROR', evt, evt.data);
             };
 
-            websocket.onclose = function(evt) {
+            websocket.onclose = function (evt) {
                 // Websocket is closed
                 var reason = WEBSOCKETERROR(evt);
                 console.warn('[STREAMDECK]***** WEBOCKET CLOSED **** reason:', reason);
             };
 
-            websocket.onmessage = function(evt) {
+            websocket.onmessage = function (evt) {
                 var jsonObj = Utils.parseJson(evt.data),
                     m;
                 if (jsonObj.event && ['viewWillAppear'].includes(jsonObj.event)) {
@@ -1027,7 +1027,7 @@ const StreamDeck = (function() {
     }
 
     return {
-        getInstance: function() {
+        getInstance: function () {
             if (!instance) {
                 instance = init();
             }
@@ -1050,7 +1050,7 @@ function initializeControlCenterClient() {
  */
 
 const ELGEvents = {
-    eventEmitter: function(name, fn) {
+    eventEmitter: function (name, fn) {
         const eventList = new Map();
 
         const on = (name, fn) => {
@@ -1111,7 +1111,7 @@ const ELGEvents = {
  */
 
 const SDApi = {
-    send: function(context, fn, payload, debug) {
+    send: function (context, fn, payload, debug) {
         /** Combine the passed JSON with the name of the event and it's context
          * If the payload contains 'event' or 'context' keys, it will overwrite existing 'event' or 'context'.
          * This function is non-mutating and thereby creates a new object containing
@@ -1142,15 +1142,15 @@ const SDApi = {
 
     registerPlugin: {
         /** Messages send from the plugin */
-        showAlert: function(context) {
+        showAlert: function (context) {
             SDApi.send(context, 'showAlert', {});
         },
 
-        showOk: function(context) {
+        showOk: function (context) {
             SDApi.send(context, 'showOk', {});
         },
 
-        setState: function(context, payload) {
+        setState: function (context, payload) {
             SDApi.send(context, 'setState', {
                 payload: {
                     state: 1 - Number(payload === 0)
@@ -1158,7 +1158,7 @@ const SDApi = {
             });
         },
 
-        setTitle: function(context, title, target) {
+        setTitle: function (context, title, target) {
             SDApi.send(context, 'setTitle', {
                 payload: {
                     title: '' + title || '',
@@ -1167,7 +1167,7 @@ const SDApi = {
             });
         },
 
-        clearTitle: function(context, title, target) {
+        clearTitle: function (context, title, target) {
             SDApi.send(context, 'setTitle', {
                 payload: {
                     target: target || DestinationEnum.HARDWARE_AND_SOFTWARE
@@ -1175,7 +1175,7 @@ const SDApi = {
             });
         },
 
-        setImage: function(context, img, target) {
+        setImage: function (context, img, target) {
             SDApi.send(context, 'setImage', {
                 payload: {
                     image: img || '',
@@ -1184,14 +1184,14 @@ const SDApi = {
             });
         },
 
-        sendToPropertyInspector: function(context, payload, action) {
+        sendToPropertyInspector: function (context, payload, action) {
             SDApi.send(context, 'sendToPropertyInspector', {
                 action: action,
                 payload: payload
             });
         },
 
-        showUrl2: function(context, urlToOpen) {
+        showUrl2: function (context, urlToOpen) {
             SDApi.send(context, 'openUrl', {
                 payload: {
                     url: urlToOpen
@@ -1203,7 +1203,7 @@ const SDApi = {
     /** Messages send from Property Inspector */
 
     registerPropertyInspector: {
-        sendToPlugin: function(piUUID, action, payload) {
+        sendToPlugin: function (piUUID, action, payload) {
             SDApi.send(
                 piUUID,
                 'sendToPlugin',
@@ -1219,22 +1219,22 @@ const SDApi = {
     /** COMMON */
 
     common: {
-        getSettings: function(context, payload) {
+        getSettings: function (context, payload) {
             SDApi.send(context, 'getSettings', {});
         },
 
-        setSettings: function(context, payload) {
+        setSettings: function (context, payload) {
             SDApi.send(context, 'setSettings', {
                 payload: payload
             });
         },
 
-        getGlobalSettings: function(context) {
+        getGlobalSettings: function (context) {
             const uuid = context ? context : $SD.uuid;
             SDApi.send(uuid, 'getGlobalSettings', {});
         },
 
-        setGlobalSettings: function(context, payload) {
+        setGlobalSettings: function (context, payload) {
             const uuid = context ? context : $SD.uuid;
             SDApi.send(uuid, 'setGlobalSettings', {
                 payload: payload
@@ -1244,7 +1244,7 @@ const SDApi = {
             // }, 10);
         },
 
-        switchToProfile: function(inContext, inDeviceID, inProfileName) {
+        switchToProfile: function (inContext, inDeviceID, inProfileName) {
             if (inDeviceID && inDeviceID.length !== 0) {
                 const context = inContext ? inContext : $SD.uuid;
                 const device = inDeviceID;
@@ -1259,7 +1259,7 @@ const SDApi = {
             }
         },
 
-        logMessage: function() {
+        logMessage: function () {
             /**
              * for logMessage we don't need a context, so we allow both
              * logMessage(unneededContext, 'message')
@@ -1276,7 +1276,7 @@ const SDApi = {
             });
         },
 
-        openUrl: function(context, urlToOpen) {
+        openUrl: function (context, urlToOpen) {
             SDApi.send(context, 'openUrl', {
                 payload: {
                     url: urlToOpen
@@ -1284,12 +1284,12 @@ const SDApi = {
             });
         },
 
-        test: function() {
+        test: function () {
             console.log(this);
             console.log(SDApi);
         },
 
-        debugPrint: function(context, inString) {
+        debugPrint: function (context, inString) {
             // console.log("------------ DEBUGPRINT");
             // console.log([].slice.apply(arguments).join());
             // console.log("------------ DEBUGPRINT");
@@ -1298,7 +1298,7 @@ const SDApi = {
             });
         },
 
-        dbgSend: function(fn, context) {
+        dbgSend: function (fn, context) {
             /** lookup if an appropriate function exists */
             if ($SD.connection && this[fn] && typeof this[fn] === 'function') {
                 /** verify if type of payload is an object/json */
@@ -1318,7 +1318,7 @@ const SDApi = {
  */
 
 const SDDebug = {
-    logger: function(name, fn) {
+    logger: function (name, fn) {
         const logEvent = jsn => {
             console.log('____SDDebug.logger.logEvent');
             console.log(jsn);
